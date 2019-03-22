@@ -1,151 +1,2835 @@
 name,year,value,lastValue
-Adelaide City,2019,2027,2055
-Adelaide City,2018,2055,2065
-Adelaide City,2017,2065,
-Adelaide Comets,2019,1931,1963
-Adelaide Comets,2018,1963,1901
-Adelaide Comets,2017,1901,
-Adelaide United,2019,2319,2341
+Western Sydney Wanderers,2013,2309,2309
+Brisbane Roar,2013,2301,2301
+Central Coast Mariners,2013,2296,2296
+Melbourne Victory,2013,2236,2236
+Adelaide United,2013,2166,2166
+Newcastle United Jets,2013,2163,2163
+Sydney FC,2013,2161,2161
+Perth Glory,2013,2148,2148
+Wellington Phoenix,2013,2110,2110
+Melbourne City FC,2013,2053,2053
+MetroStars SC,2013,2037,2037
+Adelaide Blue Eagles,2013,2006,2006
+Northcote City FC,2013,1990,1990
+Sydney United 58,2013,1970,1970
+Bonnyrigg White Eagles,2013,1967,1967
+Adelaide City FC,2013,1961,1961
+Olympic FC,2013,1940,1940
+Bentleigh Greens,2013,1920,1920
+Canberra FC,2013,1915,1915
+Green Gully SC,2013,1912,1912
+Sunshine Coast Fire,2013,1910,1910
+Brisbane City FC,2013,1908,1908
+Marconi Stallions,2013,1898,1898
+Dandenong Thunder,2013,1894,1894
+South Hobart FC,2013,1889,1889
+South Melbourne FC,2013,1889,1889
+Sutherland Sharks,2013,1887,1887
+Campbelltown City SC,2013,1883,1883
+Blacktown City FC,2013,1877,1877
+Rockdale City Suns,2013,1875,1875
+Redlands United,2013,1864,1864
+Melbourne Knights,2013,1863,1863
+Canberra Olympic,2013,1857,1857
+Bayswater City SC,2013,1851,1851
+Brisbane Strikers,2013,1851,1851
+Oakleigh Cannons,2013,1850,1850
+West Torrens Birkalla,2013,1838,1838
+Adelaide Raiders,2013,1836,1836
+Port Melbourne Sharks SC,2013,1835,1835
+Northern Fury,2013,1835,1835
+West Adelaide Hellas,2013,1832,1832
+Belconnen United,2013,1829,1829
+Stirling Lions SC,2013,1827,1827
+Sydney Olympic,2013,1819,1819
+Moreton Bay Jets,2013,1810,1810
+Adamstown Rosebud,2013,1808,1808
+Pascoe Vale SC,2013,1800,1800
+Para Hills Knights,2013,1799,1799
+Broadmeadow Magic,2013,1796,1796
+Western Strikers,2013,1790,1790
+Devonport City,2013,1788,1788
+Hume City FC,2013,1787,1787
+Cumberland United,2013,1786,1786
+Maitland FC,2013,1784,1784
+Manly United,2013,1781,1781
+Western Pride,2013,1780,1780
+Hamilton Olympic,2013,1778,1778
+St George FC,2013,1777,1777
+Cockburn City SC,2013,1767,1767
+Heidelberg United,2013,1766,1766
+Sorrento FC,2013,1766,1766
+Peninsula Power,2013,1764,1764
+Hobart Zebras,2013,1761,1761
+Croydon Kings,2013,1760,1760
+Modbury Jets,2013,1758,1758
+Richmond,2013,1746,1746
+Sydney FC (Y),2013,1743,1743
+White City FC,2013,1742,1742
+Melbourne Victory (Y),2013,1742,1742
+Lions FC,2013,1742,1742
+Bankstown Berries,2013,1742,1742
+Port Adelaide Pirates,2013,1741,1741
+Brisbane Roar (Y),2013,1740,1740
+Moreland Zebras,2013,1740,1740
+Wanneroo City,2013,1738,1738
+Lambton Jaffas,2013,1736,1736
+Edgeworth FC,2013,1732,1732
+APIA Leichhardt Tigers,2013,1730,1730
+Cooma FC,2013,1728,1728
+Gold Coast City,2013,1728,1728
+Olympia Warriors,2013,1727,1727
+Northern Tigers,2013,1726,1726
+Blacktown Spartans,2013,1723,1723
+Woden Weston FC,2013,1720,1720
+Sunshine George Cross,2013,1717,1717
+Werribee City FC,2013,1716,1716
+Shamrock Rovers Perth,2013,1715,1715
+South Adelaide Panthers,2013,1712,1712
+Central Coast Mariners Academy,2013,1711,1711
+Dianella White Eagles,2013,1710,1710
+Charlestown City Blues,2013,1709,1709
+Wolves FC,2013,1708,1708
+Adelaide Comets,2013,1706,1706
+Northern Rangers,2013,1704,1704
+South Cardiff FC,2013,1703,1703
+South Coast Wolves,2013,1702,1702
+Macarthur Rams,2013,1692,1692
+Floreat Athena,2013,1692,1692
+Inglewood United,2013,1691,1691
+Western Sydney Wanderers (Y),2013,1691,1691
+Altona Magic,2013,1689,1689
+Western Knights,2013,1687,1687
+Canning City,2013,1682,1682
+Belmont Swansea United,2013,1681,1681
+Parramatta FC,2013,1678,1678
+ECU Joondalup,2013,1676,1676
+Adelaide United (Y),2013,1676,1676
+Central Coast Mariners (Y),2013,1674,1674
+Weston Workers FC,2013,1673,1673
+South West Phoenix,2013,1672,1672
+Moreland City,2013,1672,1672
+Newcastle United Jets (Y),2013,1670,1670
+Lake Macquarie City,2013,1668,1668
+Avondale Heights,2013,1668,1668
+Rochedale Rovers,2013,1666,1666
+Eastern Suburbs,2013,1666,1666
+Mounties Wanderers,2013,1662,1662
+Bankstown City Lions,2013,1661,1661
+Far North Qld Heat,2013,1658,1658
+Central Queensland FC,2013,1657,1657
+Kingborough Lions United,2013,1657,1657
+Ashfield,2013,1648,1648
+Brunswick City,2013,1643,1643
+QAS,2013,1641,1641
+Adelaide Olympic,2013,1641,1641
+Keilor Park,2013,1641,1641
+Mitchelton,2013,1641,1641
+Adelaide Cobras,2013,1637,1637
+Perth SC,2013,1634,1634
+Balcatta SC,2013,1634,1634
+Spirit FC,2013,1632,1632
+Bulleen Lions,2013,1631,1631
+Logan Lightning,2013,1628,1628
+Sydenham Park,2013,1619,1619
+Perth Glory (Y),2013,1618,1618
+Southern Stars,2013,1616,1616
+Box Hill United,2013,1616,1616
+Springvale White Eagles,2013,1615,1615
+Adelaide Hills,2013,1615,1615
+Dandenong City,2013,1610,1610
+South Springvale,2013,1605,1605
+Glenorchy Knights,2013,1603,1603
+Fraser Park,2013,1603,1603
+FC Clifton Hill,2013,1601,1601
+North Geelong Warriors,2013,1599,1599
+Capalaba,2013,1594,1594
+Enfield City Falcons,2013,1593,1593
+Salisbury United,2013,1590,1590
+Playford City Patriots,2013,1588,1588
+Port Kembla,2013,1586,1586
+Armadale SC,2013,1582,1582
+Hills Brumbies,2013,1580,1580
+Canberra City,2013,1579,1579
+Toronto Awaba,2013,1578,1578
+Langwarrin,2013,1577,1577
+FFA COE,2013,1577,1577
+St Albans Saints,2013,1573,1573
+Noarlunga United,2013,1573,1573
+Mornington,2013,1572,1572
+Ipswich Knights,2013,1571,1571
+Mandurah City,2013,1564,1564
+Westgate,2013,1563,1563
+Morwell Pegasus,2013,1558,1558
+Valentine FC,2013,1558,1558
+Balmain Tigers FC,2013,1556,1556
+NTC WA,2013,1552,1552
+Melbourne City (Y),2013,1547,1547
+West Wallsend,2013,1546,1546
+Thornton Redbacks,2013,1545,1545
+Doncaster Rovers,2013,1544,1544
+Kingston City,2013,1543,1543
+White Eagles,2013,1541,1541
+Sydney University,2013,1536,1536
+Western Suburbs,2013,1534,1534
+Altona East Phoenix,2013,1534,1534
+Morley-Windmills,2013,1530,1530
+Stanmore Hawks,2013,1526,1526
+Narrabundah,2013,1522,1522
+Queanbeyan City,2013,1522,1522
+Preston Lions,2013,1520,1520
+Diamond Valley United,2013,1520,1520
+Gosnells City,2013,1518,1518
+Northbridge FC,2013,1517,1517
+North Sunshine Eagles,2013,1515,1515
+Eastern Lions,2013,1510,1510
+Bulli,2013,1507,1507
+Mount Gravatt,2013,1505,1505
+Casey Comets,2013,1504,1504
+Warragul United,2013,1500,1500
+Fitzroy City,2013,1500,1500
+Albany Creek,2013,1495,1495
+Swan United,2013,1494,1494
+Hakoah Sydney City East,2013,1493,1493
+Eastern United,2013,1491,1491
+Seaford Rangers,2013,1490,1490
+Malvern City,2013,1489,1489
+Whittlesea Ranges,2013,1487,1487
+Sunbury United,2013,1485,1485
+Cairnlea,2013,1485,1485
+Tuggeranong United,2013,1484,1484
+Warilla Wanderers,2013,1477,1477
+Hawkesbury City,2013,1476,1476
+UWA Nedlands,2013,1476,1476
+Southside Eagles,2013,1476,1476
+Wollongong United,2013,1475,1475
+Tarrawanna,2013,1474,1474
+Noble Park United,2013,1473,1473
+Moggill,2013,1473,1473
+Granville Rage,2013,1473,1473
+Dulwich Hill,2013,1471,1471
+Launceston City FC,2013,1470,1470
+Gladesville Ryde Magic,2013,1470,1470
+Mt Druitt Town Rangers,2013,1468,1468
+Fairfield City Lions,2013,1464,1464
+Bellambi,2013,1463,1463
+Adelaide Victory,2013,1462,1462
+Cessnock City,2013,1462,1462
+Brisbane Force,2013,1461,1461
+Old Scotch,2013,1459,1459
+North Star,2013,1458,1458
+Wollongong Olympic,2013,1457,1457
+Fawkner Blues,2013,1454,1454
+Dapto Dandaloo Fury,2013,1451,1451
+Monaro Panthers,2013,1449,1449
+UQ FC,2013,1447,1447
+Westvale,2013,1445,1445
+Yarraville,2013,1442,1442
+Bayside United,2013,1439,1439
+Rockingham City,2013,1439,1439
+Doveton,2013,1437,1437
+Northern Demons,2013,1436,1436
+Heatherton United,2013,1432,1432
+Pine Rivers United,2013,1430,1430
+Inter Lions,2013,1429,1429
+Joondalup City,2013,1426,1426
+The Cove,2013,1424,1424
+Prospect United,2013,1419,1419
+Berwick City,2013,1416,1416
+ANU FC,2013,1415,1415
+Maddington White City,2013,1409,1409
+Fernhill,2013,1402,1402
+Melbourne University,2013,1401,1401
+Singleton SC,2013,1395,1395
+Nepean FC,2013,1394,1394
+Quinns FC,2013,1392,1392
+O'Connor Knights,2013,1391,1391
+Pine Hills,2013,1388,1388
+Beaumaris,2013,1386,1386
+University of NSW,2013,1385,1385
+Helensburgh Thistle,2013,1383,1383
+ADFA,2013,1383,1383
+Banyule City,2013,1382,1382
+Belmore United,2013,1382,1382
+Thirroul,2013,1382,1382
+La Trobe University,2013,1381,1381
+Fremantle United,2013,1381,1381
+Western Condors,2013,1379,1379
+Moreland United,2013,1378,1378
+Ballarat Red Devils,2013,1374,1374
+Shell Cove,2013,1373,1373
+Geelong,2013,1371,1371
+Frankston Pines,2013,1369,1369
+Southern Bulls,2013,1368,1368
+Berkeley,2013,1367,1367
+Picton Rangers,2013,1363,1363
+Western NSW Mariners FC,2013,1360,1360
+Lanyon United,2013,1359,1359
+Taringa Rovers,2013,1356,1356
+Hellenic,2013,1356,1356
+North Pine,2013,1355,1355
+Weston Molongo,2013,1355,1355
+Broadbeach United,2013,1355,1355
+Wests Illawarra,2013,1354,1354
+Souths United,2013,1353,1353
+Sporting Whittlesea,2013,1351,1351
+Sturt Lions,2013,1351,1351
+Subiaco,2013,1348,1348
+Belconnen United (Res),2013,1347,1347
+North Caulfield,2013,1346,1346
+Camden Tigers,2013,1343,1343
+Cringila Lions,2013,1342,1342
+Maroochydore Swans,2013,1340,1340
+Gawler,2013,1339,1339
+Peninsula Strikers,2013,1336,1336
+South Coast United,2013,1331,1331
+Southern Branch,2013,1329,1329
+Murwillumbah,2013,1328,1328
+UCU Pumas,2013,1317,1317
+Balgownie Rangers,2013,1314,1314
+Woonona,2013,1314,1314
+Celtic,2013,1312,1312
+Hurstville City Minotaurs,2013,1311,1311
+Nunawading City,2013,1298,1298
+Enfield Rovers,2013,1298,1298
+University of Wollongong,2013,1296,1296
+Melville City,2013,1295,1295
+Port Darwin,2013,1294,1294
+Woombye,2013,1292,1292
+Hurstville FC,2013,1290,1290
+Forrestfield United,2013,1283,1283
+Hume United,2013,1282,1282
+Scorpions,2013,1274,1274
+Albion Park White Eagles,2013,1273,1273
+Casuarina,2013,1272,1272
+Darwin Olympic,2013,1266,1266
+Olympic Kingsway,2013,1266,1266
+Corrimal Rangers,2013,1265,1265
+Buderim Wanderers,2013,1263,1263
+Altona City,2013,1263,1263
+Oak Flats Falcons,2013,1259,1259
+Belnorth,2013,1249,1249
+Caloundra,2013,1248,1248
+Caboolture,2013,1248,1248
+Kawana,2013,1248,1248
+Kemblawarra,2013,1241,1241
+Mudgeeraba,2013,1233,1233
+Burleigh Heads,2013,1221,1221
+Kiama,2013,1212,1212
+Springvale City,2013,1208,1208
+Western Spirit,2013,1202,1202
+Noosa Lions,2013,1196,1196
+Coniston Lions,2013,1188,1188
+Brisbane Knights,2013,1181,1181
+Merrimac,2013,1167,1167
+Gold Coast Knights,2013,1156,1156
+Nambour Yandina United,2013,1143,1143
+Vikings,2013,1123,1123
+Mindil,2013,1121,1121
+Schofield Scorpions,2013,1118,1118
+Palm Beach Sharks,2013,1110,1110
+Palmerston,2013,1108,1108
+University Azzurri,2013,1102,1102
+Verdi,2013,1091,1091
+NTC 18's,2013,1081,1081
+Coolum,2013,1070,1070
+Southport,2013,1031,1031
+Beegees,2013,951,951
+Adelaide United,2014,2323,2166
+Melbourne Victory,2014,2299,2236
+Perth Glory,2014,2290,2148
+Brisbane Roar,2014,2262,2301
+Sydney FC,2014,2230,2161
+Wellington Phoenix,2014,2225,2110
+Central Coast Mariners,2014,2203,2296
+Western Sydney Wanderers,2014,2187,2309
+Melbourne City FC,2014,2174,2053
+MetroStars SC,2014,2109,2037
+Newcastle United Jets,2014,2106,2163
+South Melbourne FC,2014,2009,1889
+Oakleigh Cannons,2014,1996,1850
+Bonnyrigg White Eagles,2014,1996,1967
+Adelaide City FC,2014,1995,1961
+Croydon Kings,2014,1984,1760
+Blacktown City FC,2014,1984,1877
+Olympic FC,2014,1974,1940
+Adelaide Blue Eagles,2014,1971,2006
+Bentleigh Greens,2014,1970,1920
+West Adelaide Hellas,2014,1962,1832
+South Hobart FC,2014,1948,1889
+Gold Coast City,2014,1912,1728
+Northcote City FC,2014,1911,1990
+Melbourne Knights,2014,1906,1863
+Belconnen United,2014,1905,1829
+Sydney Olympic,2014,1904,1819
+Brisbane Strikers,2014,1901,1851
+Bayswater City SC,2014,1899,1851
+Sydney United 58,2014,1882,1970
+Heidelberg United,2014,1878,1766
+Wolves FC,2014,1859,1708
+Campbelltown City SC,2014,1858,1883
+Maitland FC,2014,1854,1784
+Stirling Lions SC,2014,1850,1827
+Canberra FC,2014,1849,1915
+Rockdale City Suns,2014,1849,1875
+Sutherland Sharks,2014,1845,1887
+Lions FC,2014,1838,1742
+Far North Qld Heat,2014,1830,1658
+Brisbane City FC,2014,1829,1908
+Peninsula Power,2014,1828,1764
+Hobart Zebras,2014,1817,1761
+Perth SC,2014,1817,1634
+Dandenong Thunder,2014,1815,1894
+Sunshine Coast Fire,2014,1815,1910
+Marconi Stallions,2014,1815,1898
+Redlands United,2014,1813,1864
+Moreton Bay Jets,2014,1812,1810
+Adelaide Comets,2014,1810,1706
+Lambton Jaffas,2014,1809,1736
+Green Gully SC,2014,1808,1912
+Hume City FC,2014,1806,1787
+Blacktown Spartans,2014,1800,1723
+South Coast Wolves,2014,1800,1702
+Cooma FC,2014,1799,1728
+West Torrens Birkalla,2014,1796,1838
+Port Adelaide Pirates,2014,1794,1741
+Canberra Olympic,2014,1794,1857
+Para Hills Knights,2014,1793,1799
+Pascoe Vale SC,2014,1791,1800
+White City FC,2014,1791,1742
+Cockburn City SC,2014,1789,1767
+Manly United,2014,1787,1781
+Richmond,2014,1782,1746
+Shamrock Rovers Perth,2014,1781,1715
+South Adelaide Panthers,2014,1777,1712
+Adelaide Raiders,2014,1776,1836
+Valentine FC,2014,1774,1558
+Port Melbourne Sharks SC,2014,1772,1835
+Balcatta SC,2014,1769,1634
+Modbury Jets,2014,1769,1758
+Sorrento FC,2014,1768,1766
+Ashfield,2014,1767,1648
+Cumberland United,2014,1760,1786
+Harimau Muda A,2014,1750,1750
+Hamilton Olympic,2014,1749,1778
+Weston Workers FC,2014,1745,1673
+Sydney FC (Y),2014,1739,1743
+Parramatta FC,2014,1737,1678
+Broadmeadow Magic,2014,1736,1796
+Werribee City FC,2014,1735,1716
+Edgeworth FC,2014,1735,1732
+Charlestown City Blues,2014,1735,1709
+Avondale FC,2014,1734,1734
+Northern Rangers,2014,1726,1704
+North Geelong Warriors,2014,1726,1599
+Mornington,2014,1725,1572
+Melbourne City (Y),2014,1724,1547
+Floreat Athena,2014,1720,1692
+ECU Joondalup,2014,1720,1676
+Northern Tigers,2014,1718,1726
+St Albans Saints,2014,1717,1573
+Eastern Suburbs,2014,1716,1666
+South West Phoenix,2014,1715,1672
+Melbourne Victory (Y),2014,1715,1742
+Olympia Warriors,2014,1713,1727
+Moreland Zebras,2014,1711,1740
+APIA Leichhardt Tigers,2014,1711,1730
+Macarthur Rams,2014,1708,1692
+Box Hill United,2014,1708,1616
+Western Strikers,2014,1707,1790
+Adamstown Rosebud,2014,1699,1808
+Newcastle United Jets (Y),2014,1699,1670
+Salisbury United,2014,1697,1590
+Brisbane Roar (Y),2014,1696,1740
+Bulleen Lions,2014,1696,1631
+South Cardiff FC,2014,1695,1703
+Northern Fury,2014,1690,1835
+Hakoah Sydney City East,2014,1689,1493
+Devonport City,2014,1686,1788
+St George FC,2014,1683,1777
+Western Knights,2014,1680,1687
+Moreland City,2014,1680,1672
+Western Sydney Wanderers (Y),2014,1677,1691
+Langwarrin,2014,1672,1577
+Woden Weston FC,2014,1669,1720
+Central Coast Mariners Academy,2014,1668,1711
+Adelaide United (Y),2014,1662,1676
+Perth Glory (Y),2014,1657,1618
+Eastern Lions,2014,1656,1510
+Goulburn Valley Suns,2014,1654,1654
+Adelaide Olympic,2014,1649,1641
+Adelaide Hills,2014,1648,1615
+Playford City Patriots,2014,1640,1588
+South Springvale,2014,1639,1605
+Western Pride,2014,1638,1780
+Logan Lightning,2014,1637,1628
+Sunshine George Cross,2014,1635,1717
+Inglewood United,2014,1634,1691
+Mounties Wanderers,2014,1629,1662
+Bankstown City Lions,2014,1622,1661
+Kingston City,2014,1619,1543
+Sydenham Park,2014,1619,1619
+Preston Lions,2014,1618,1520
+Central Coast Mariners (Y),2014,1616,1674
+Mitchelton,2014,1615,1641
+Canning City,2014,1610,1682
+Bankstown Berries,2014,1609,1742
+Altona Magic,2014,1606,1689
+Spirit FC,2014,1605,1632
+Ipswich Knights,2014,1605,1571
+Bendigo City,2014,1601,1601
+Belmont Swansea United,2014,1601,1681
+Lake Macquarie City,2014,1599,1668
+Dandenong City,2014,1596,1610
+Bulli,2014,1593,1507
+North Sunshine Eagles,2014,1584,1515
+Capalaba,2014,1584,1594
+Dapto Dandaloo Fury,2014,1579,1451
+Sydney University,2014,1579,1536
+Fraser Park,2014,1578,1603
+Joondalup United,2014,1576,1576
+Northbridge FC,2014,1568,1517
+Malvern City,2014,1563,1489
+Balmain Tigers FC,2014,1557,1556
+Ballarat Red Devils,2014,1556,1374
+Port Kembla,2014,1555,1586
+Hills Brumbies,2014,1555,1580
+Cairnlea,2014,1555,1485
+Manningham United Blues,2014,1554,1554
+Keilor Park,2014,1554,1641
+Morwell Pegasus,2014,1552,1558
+Rochedale Rovers,2014,1542,1666
+Adelaide Victory,2014,1542,1462
+Morley-Windmills,2014,1541,1530
+FC Clifton Hill,2014,1539,1601
+Bayside United,2014,1537,1439
+Weston Molongo,2014,1537,1355
+Canberra City,2014,1534,1579
+Springvale White Eagles,2014,1531,1615
+ANU FC,2014,1530,1415
+Warilla Wanderers,2014,1529,1477
+Seaford Rangers,2014,1527,1490
+Noble Park United,2014,1525,1473
+FFA COE,2014,1522,1577
+Rydalmere Lions,2014,1517,1517
+Western Suburbs,2014,1516,1534
+Swan United,2014,1510,1494
+Mandurah City,2014,1508,1564
+Tuggeranong United,2014,1507,1484
+Yarraville,2014,1507,1442
+Taringa Rovers,2014,1505,1356
+Kingborough Lions United,2014,1505,1657
+Picton Rangers,2014,1502,1363
+Sunbury United,2014,1502,1485
+Wanneroo City,2014,1499,1738
+Rockingham City,2014,1499,1439
+The Cove,2014,1498,1424
+Dianella White Eagles,2014,1496,1710
+Thornton Redbacks,2014,1495,1545
+Armadale SC,2014,1495,1582
+Westvale,2014,1493,1445
+Hawkesbury City,2014,1493,1476
+Gosnells City,2014,1490,1518
+Casey Comets,2014,1490,1504
+Westgate,2014,1490,1563
+Wollongong United,2014,1490,1475
+Moggill,2014,1489,1473
+Queanbeyan City,2014,1487,1522
+Adelaide Cobras,2014,1487,1637
+White Eagles,2014,1486,1541
+UWA Nedlands,2014,1486,1476
+Mt Druitt Town Rangers,2014,1481,1468
+Glenorchy Knights,2014,1480,1603
+Altona East Phoenix,2014,1478,1534
+Diamond Valley United,2014,1478,1520
+Corio,2014,1476,1476
+Toronto Awaba,2014,1476,1578
+Whittlesea Ranges,2014,1474,1487
+Albany Creek,2014,1473,1495
+SWQ Thunder,2014,1470,1470
+Granville Rage,2014,1469,1473
+Eastern United,2014,1466,1491
+Warragul United,2014,1463,1500
+Gladesville Ryde Magic,2014,1463,1470
+Subiaco AFC,2014,1461,1461
+Monaro Panthers,2014,1454,1449
+Tarrawanna Blueys,2014,1452,1452
+Shell Cove,2014,1452,1373
+Berwick City,2014,1451,1416
+Fremantle United,2014,1451,1381
+Narrabundah,2014,1451,1522
+Brunswick City,2014,1450,1643
+Stanmore Hawks,2014,1449,1526
+Frankston Pines,2014,1447,1369
+Darwin Olympic,2014,1445,1266
+Dulwich Hill,2014,1445,1471
+Cessnock City,2014,1443,1462
+O'Connor Knights,2014,1440,1391
+Pine Rivers United,2014,1439,1430
+Curtin University,2014,1433,1433
+Beaumaris,2014,1431,1386
+Prospect United,2014,1430,1419
+Joondalup City,2014,1425,1426
+Dingley Stars,2014,1425,1425
+Moreland United,2014,1424,1378
+Wollongong Olympic,2014,1423,1457
+Southern Bulls,2014,1423,1368
+Broadbeach United,2014,1420,1355
+UQ FC,2014,1419,1447
+Doveton,2014,1416,1437
+Brisbane Force,2014,1414,1461
+Old Scotch,2014,1413,1459
+Berkeley Sports,2014,1410,1410
+Northern Demons,2014,1409,1436
+North Star,2014,1407,1458
+Sturt Lions,2014,1405,1351
+Heatherton United,2014,1404,1432
+Forrestfield United,2014,1398,1283
+Woombye Snakes,2014,1396,1396
+South Coast United,2014,1396,1331
+Launceston City FC,2014,1393,1470
+Fitzroy City,2014,1387,1500
+Port Darwin,2014,1385,1294
+Melville City,2014,1379,1295
+Hurstville FC,2014,1378,1290
+Singleton SC,2014,1376,1395
+Geelong,2014,1374,1371
+Mount Gravatt,2014,1372,1505
+North Pine,2014,1367,1355
+Western Condors,2014,1367,1379
+Nepean FC,2014,1364,1394
+West Wallsend,2014,1363,1546
+Southside Eagles,2014,1362,1476
+Corrimal Rangers,2014,1362,1265
+Doncaster Rovers,2014,1362,1544
+ADFA,2014,1360,1383
+Western NSW Mariners FC,2014,1357,1360
+Sporting Whittlesea,2014,1355,1351
+Celtic,2014,1351,1312
+Thirroul,2014,1346,1382
+Mooroolbark,2014,1346,1346
+Camden Tigers,2014,1343,1343
+Noarlunga United,2014,1342,1573
+Oak Flats Falcons,2014,1336,1259
+Pine Hills,2014,1333,1388
+Banyule City,2014,1330,1382
+Scorpions,2014,1330,1274
+Caloundra,2014,1325,1248
+Kawana,2014,1324,1248
+North Caulfield,2014,1323,1346
+Albion Park White Eagles,2014,1323,1273
+Inter Lions,2014,1317,1429
+Maroochydore Swans,2014,1317,1340
+Lanyon United,2014,1314,1359
+Helensburgh Thistle,2014,1311,1383
+Bellambi,2014,1309,1463
+Gawler,2014,1305,1339
+Peninsula Strikers,2014,1305,1336
+Murwillumbah,2014,1303,1328
+Woonona,2014,1303,1314
+Hurstville City Minotaurs,2014,1294,1311
+Hellenic,2014,1291,1356
+Casuarina,2014,1289,1272
+Olympic Kingsway,2014,1288,1266
+Melbourne University,2014,1288,1401
+Enfield Rovers,2014,1280,1298
+Quinns FC,2014,1279,1392
+Noosa Lions,2014,1278,1196
+Balga,2014,1277,1277
+Belconnen United (Res),2014,1275,1347
+Annerley,2014,1271,1271
+Cringila Lions,2014,1270,1342
+Fernhill,2014,1263,1402
+Southern Branch,2014,1261,1329
+Seaford United,2014,1256,1256
+Wests Illawarra,2014,1248,1354
+Souths United,2014,1247,1353
+Heidelberg Stars,2014,1245,1245
+La Trobe University,2014,1245,1381
+Hume United,2014,1244,1282
+Buderim Wanderers,2014,1238,1263
+University of Wollongong,2014,1237,1296
+Mudgeeraba,2014,1227,1233
+University of NSW,2014,1218,1385
+Ellenbrook United,2014,1214,1214
+Grange Thistle,2014,1209,1209
+Kiama Quarriers,2014,1206,1206
+Caboolture,2014,1203,1248
+Kelmscott Roos,2014,1196,1196
+Kemblawarra,2014,1191,1241
+Nunawading City,2014,1188,1298
+Balgownie Rangers,2014,1169,1314
+Tuggeranong United (Res),2014,1158,1158
+Merrimac,2014,1156,1167
+Coomera,2014,1131,1131
+Burleigh Heads,2014,1125,1221
+University Azzurri,2014,1124,1102
+Surfers Paradise,2014,1121,1121
+Coniston Lions,2014,1100,1188
+Gold Coast Knights,2014,1097,1156
+Buckleys,2014,1084,1084
+1st Brigade,2014,1059,1059
+Coolum,2014,1056,1070
+Vikings,2014,1035,1123
+Palmerston,2014,1020,1108
+Nambour Yandina United,2014,1015,1143
+Mindil,2014,987,1121
+Beerwah Glasshouse,2014,858,858
+Melbourne Victory,2015,2386,2299
+Sydney FC,2015,2347,2230
+Brisbane Roar,2015,2317,2262
+Western Sydney Wanderers,2015,2316,2187
+Melbourne City FC,2015,2300,2174
+Adelaide United,2015,2290,2323
+Perth Glory,2015,2282,2290
+Wellington Phoenix,2015,2234,2225
+Newcastle United Jets,2015,2147,2106
+Central Coast Mariners,2015,2144,2203
+Blacktown City FC,2015,2064,1984
+Bentleigh Greens,2015,2027,1970
+Bonnyrigg White Eagles,2015,2026,1996
+South Melbourne FC,2015,2016,2009
+Bayswater City SC,2015,2014,1899
+Adelaide City FC,2015,2002,1995
+Croydon Kings,2015,1985,1984
+West Adelaide Hellas,2015,1984,1962
+Adelaide Blue Eagles,2015,1975,1971
+MetroStars SC,2015,1955,2109
+Heidelberg United,2015,1955,1878
+Brisbane Strikers,2015,1949,1901
+Sydney Olympic,2015,1943,1904
+Moreton Bay Jets,2015,1939,1812
+Hume City FC,2015,1935,1806
+Melbourne Knights,2015,1930,1906
+South Hobart FC,2015,1909,1948
+Perth SC,2015,1900,1817
+Rockdale City Suns,2015,1900,1849
+Lions FC,2015,1893,1838
+West Torrens Birkalla,2015,1889,1796
+Campbelltown City SC,2015,1888,1858
+Olympic FC,2015,1883,1974
+Green Gully SC,2015,1882,1808
+APIA Leichhardt Tigers,2015,1881,1711
+Redlands United,2015,1880,1813
+Gold Coast City,2015,1875,1912
+Oakleigh Cannons,2015,1863,1996
+South Coast Wolves,2015,1862,1800
+Edgeworth FC,2015,1857,1735
+Belconnen United,2015,1850,1905
+Lambton Jaffas,2015,1848,1809
+Olympia Warriors,2015,1847,1713
+Sorrento FC,2015,1844,1768
+Pascoe Vale SC,2015,1832,1791
+Canberra FC,2015,1827,1849
+Manly United,2015,1826,1787
+Far North Qld Heat,2015,1823,1830
+Sydney United 58,2015,1823,1882
+Hobart Zebras,2015,1822,1817
+Floreat Athena,2015,1820,1720
+Canberra Olympic,2015,1818,1794
+Sutherland Sharks,2015,1815,1845
+Hamilton Olympic,2015,1812,1749
+Peninsula Power,2015,1810,1828
+Brisbane Roar (Y),2015,1810,1696
+Northcote City FC,2015,1808,1911
+Port Melbourne Sharks SC,2015,1806,1772
+Richmond,2015,1800,1782
+Broadmeadow Magic,2015,1796,1736
+Cooma FC,2015,1795,1799
+Adelaide Comets,2015,1794,1810
+Blacktown Spartans,2015,1793,1800
+Northern Tigers,2015,1788,1718
+South Adelaide Panthers,2015,1786,1777
+Avondale FC,2015,1784,1734
+Port Adelaide Pirates,2015,1782,1794
+Port Adelaide Pirates,2015,1782,1794
+Ashfield,2015,1775,1767
+Eastern Suburbs,2015,1773,1716
+Adamstown Rosebud,2015,1773,1699
+Sydney FC (Y),2015,1772,1739
+Adelaide Raiders,2015,1768,1776
+Mornington,2015,1768,1725
+Brisbane City FC,2015,1766,1829
+Cumberland United,2015,1764,1760
+Adelaide United (Y),2015,1757,1662
+Melbourne Victory (Y),2015,1755,1715
+Modbury Jets,2015,1753,1769
+White City FC,2015,1750,1791
+Moreland Zebras,2015,1748,1711
+Shamrock Rovers Perth,2015,1747,1781
+Bulleen Lions,2015,1743,1696
+Parramatta FC,2015,1743,1737
+Valentine FC,2015,1735,1774
+Moreland City,2015,1734,1680
+Maitland FC,2015,1733,1854
+Weston Workers FC,2015,1733,1745
+Cockburn City SC,2015,1730,1789
+Ballarat Red Devils,2015,1723,1556
+Spirit FC,2015,1723,1605
+Melbourne City (Y),2015,1719,1724
+Sunshine Coast Fire,2015,1719,1815
+Northern Rangers,2015,1717,1726
+North Geelong Warriors,2015,1715,1726
+Mandurah City,2015,1715,1508
+Northern Fury,2015,1714,1690
+Stirling Lions SC,2015,1708,1850
+North Shore Mariners,2015,1705,1705
+Wolves FC,2015,1705,1859
+Balcatta SC,2015,1703,1769
+Bankstown City Lions,2015,1698,1622
+St Albans Saints,2015,1698,1717
+Para Hills Knights,2015,1697,1793
+Box Hill United,2015,1697,1708
+Newcastle United Jets (Y),2015,1686,1699
+Gungahlin United,2015,1686,1686
+Dandenong City,2015,1676,1596
+Adelaide Olympic,2015,1672,1649
+Hakoah Sydney City East,2015,1671,1689
+Dandenong Thunder,2015,1670,1815
+Mitchelton,2015,1670,1615
+Sydenham Park,2015,1668,1619
+Langwarrin,2015,1668,1672
+FC Clifton Hill,2015,1666,1539
+Altona Magic,2015,1666,1606
+Werribee City FC,2015,1661,1735
+Western Strikers,2015,1658,1707
+Central Coast Mariners (Y),2015,1655,1616
+Central Coast FC,2015,1653,1653
+Marconi Stallions,2015,1651,1815
+Goulburn Valley Suns,2015,1651,1654
+Preston Lions,2015,1650,1618
+South Springvale,2015,1646,1639
+Joondalup United,2015,1643,1576
+Western Knights,2015,1642,1680
+ECU Joondalup,2015,1640,1720
+Kingston City,2015,1638,1619
+Dapto Dandaloo Fury,2015,1636,1579
+Adelaide Hills,2015,1635,1648
+Western Pride,2015,1634,1638
+Rochedale Rovers,2015,1628,1542
+The Cove,2015,1626,1498
+Macarthur Rams,2015,1623,1708
+Eastern Lions,2015,1623,1656
+Charlestown City Blues,2015,1621,1735
+Logan Lightning,2015,1619,1637
+Fraser Park,2015,1619,1578
+South West Phoenix,2015,1617,1715
+Sunshine George Cross,2015,1613,1635
+Inglewood United,2015,1611,1634
+Western Suburbs,2015,1610,1516
+Devonport City,2015,1607,1686
+Wallsend FC,2015,1606,1606
+South Cardiff FC,2015,1598,1695
+Western Sydney Wanderers (Y),2015,1595,1677
+Albany Creek,2015,1595,1473
+Ipswich Knights,2015,1595,1605
+Perth Glory (Y),2015,1594,1657
+Lake Macquarie City,2015,1593,1599
+Capalaba,2015,1591,1584
+Bankstown Berries,2015,1588,1609
+Playford City Patriots,2015,1586,1640
+Bendigo City,2015,1579,1601
+Whittlesea Ranges,2015,1578,1474
+Malvern City,2015,1578,1563
+Rockingham City,2015,1576,1499
+Salisbury United,2015,1575,1697
+North Sunshine Eagles,2015,1575,1584
+Wollongong United,2015,1575,1490
+Dianella White Eagles,2015,1574,1496
+ANU FC,2015,1574,1530
+Forrestfield United,2015,1572,1398
+Balmain Tigers FC,2015,1567,1557
+Hills Brumbies,2015,1561,1555
+FFA COE,2015,1559,1522
+Belmont Swansea United,2015,1558,1601
+Kingborough Lions United,2015,1555,1505
+Bulli,2015,1554,1593
+Woden Weston FC,2015,1548,1669
+Adelaide Victory,2015,1546,1542
+Subiaco AFC,2015,1545,1461
+Mt Druitt Town Rangers,2015,1542,1481
+St George FC,2015,1542,1683
+Sydney University,2015,1540,1579
+Keilor Park,2015,1539,1554
+Mounties Wanderers,2015,1537,1629
+Warragul United,2015,1536,1463
+Picton Rangers,2015,1535,1502
+Sturt Lions,2015,1535,1405
+Yarraville,2015,1524,1507
+Frankston Pines,2015,1523,1447
+Armadale SC,2015,1523,1495
+Holland Park Hawks,2015,1522,1522
+Kahibah FC,2015,1521,1521
+White Eagles,2015,1519,1486
+Gosnells City,2015,1514,1490
+Southern Districts SFA,2015,1510,1510
+Darwin Olympic,2015,1510,1445
+Berwick City,2015,1507,1451
+Hawkesbury City,2015,1506,1493
+Morwell Pegasus,2015,1504,1552
+Manningham United Blues,2015,1503,1554
+Murray United,2015,1503,1503
+Launceston City FC,2015,1499,1393
+Rydalmere Lions,2015,1494,1517
+Stanmore Hawks,2015,1492,1449
+Canning City,2015,1488,1610
+Casey Comets,2015,1484,1490
+Singleton SC,2015,1483,1376
+Diamond Valley United,2015,1477,1478
+UWA Nedlands,2015,1473,1486
+Fremantle City,2015,1472,1472
+Dulwich Hill,2015,1470,1445
+Altona East Phoenix,2015,1470,1478
+Port Kembla,2015,1469,1555
+Warilla Wanderers,2015,1468,1529
+Hellenic,2015,1466,1291
+Cairnlea,2015,1466,1555
+Kawana Force,2015,1466,1466
+Moreland United,2015,1465,1424
+North Star,2015,1462,1407
+Westgate,2015,1461,1490
+Brunswick City,2015,1461,1450
+Banyule City,2015,1460,1330
+Hurstville FC,2015,1452,1378
+Springvale White Eagles,2015,1449,1531
+Corio,2015,1449,1476
+Cooks Hill United,2015,1445,1445
+Gladesville Ryde Magic,2015,1445,1463
+Adelaide Cobras,2015,1444,1487
+Mooroolbark,2015,1443,1346
+Moggill,2015,1443,1489
+Beaumaris,2015,1442,1431
+Corrimal Rangers,2015,1441,1362
+Prospect United,2015,1441,1430
+Seaford Rangers,2015,1440,1527
+Geelong,2015,1439,1374
+Taringa Rovers,2015,1439,1505
+Wollongong Olympic,2015,1438,1423
+Wanneroo City,2015,1438,1499
+Old Scotch,2015,1438,1413
+Pine Rivers United,2015,1436,1439
+Essendon Royals,2015,1431,1431
+Tuggeranong United,2015,1430,1507
+North Pine,2015,1429,1367
+Dunbar Rovers,2015,1428,1428
+Tarrawanna Blueys,2015,1424,1452
+Morley-Windmills,2015,1424,1541
+Sunbury United,2015,1421,1502
+Sporting Whittlesea,2015,1416,1355
+Albion Park White Eagles,2015,1415,1323
+Narrabundah,2015,1414,1451
+Noble Park United,2015,1411,1525
+Granville Rage,2015,1408,1469
+Heatherton United,2015,1408,1404
+Monaro Panthers (Res),2015,1406,1406
+Monaro Panthers,2015,1405,1454
+SWQ Thunder,2015,1404,1470
+Thornton Redbacks,2015,1401,1495
+Thirroul,2015,1392,1346
+Woombye Snakes,2015,1390,1396
+Helensburgh Thistle,2015,1388,1311
+Noosa Lions,2015,1387,1278
+Maroochydore Swans,2015,1386,1317
+Northern Demons,2015,1385,1409
+South Coast United,2015,1383,1396
+Queanbeyan City,2015,1383,1487
+Western Condors,2015,1382,1367
+Brisbane Knights,2015,1382,1382
+Joondalup City,2015,1381,1425
+Swan United,2015,1377,1510
+UQ FC,2015,1377,1419
+North Caulfield,2015,1375,1323
+Fitzroy City,2015,1375,1387
+Shell Cove,2015,1375,1452
+Inter Lions,2015,1371,1317
+Mount Gravatt,2015,1365,1372
+Noarlunga United,2015,1364,1342
+Bayside United,2015,1361,1537
+Toronto Awaba,2015,1360,1476
+Glenorchy Knights,2015,1356,1480
+Scorpions,2015,1356,1330
+Celtic,2015,1353,1351
+Olympic Kingsway,2015,1352,1288
+Cessnock City,2015,1351,1443
+Doveton,2015,1349,1416
+Doncaster Rovers,2015,1348,1362
+Fernhill,2015,1345,1263
+Oak Flats Falcons,2015,1345,1336
+Western NSW Mariners FC,2015,1343,1357
+Broadbeach United,2015,1339,1420
+Curtin University,2015,1338,1433
+Southside Eagles,2015,1332,1362
+Canberra Olympic (Res),2015,1328,1328
+Berkeley Sports,2015,1322,1410
+Melville City,2015,1322,1379
+Nepean FC,2015,1314,1364
+Magic United,2015,1312,1312
+Balga,2015,1312,1277
+Camden Tigers,2015,1308,1343
+Caboolture Sports,2015,1308,1308
+Sandringham,2015,1306,1306
+West Wallsend,2015,1305,1363
+University of Wollongong,2015,1304,1237
+Eastern United,2015,1301,1466
+Woonona,2015,1301,1303
+Peninsula Strikers,2015,1299,1305
+Westvale,2015,1299,1493
+O'Connor Knights,2015,1298,1440
+Buderim Wanderers,2015,1296,1238
+Seaford United,2015,1283,1256
+Essendon United,2015,1283,1283
+Cringila Lions,2015,1282,1270
+Tuggeranong United (Res),2015,1281,1158
+Quinns FC,2015,1273,1279
+Casuarina,2015,1269,1289
+ADFA,2015,1266,1360
+Mudgeeraba,2015,1247,1227
+Old Melburnians,2015,1245,1245
+Surfers Paradise,2015,1244,1121
+Annerley,2015,1241,1271
+Heidelberg Stars,2015,1239,1245
+Caloundra,2015,1239,1325
+Grange Thistle,2015,1238,1209
+University of NSW,2015,1233,1218
+Murwillumbah,2015,1230,1303
+Hume United,2015,1226,1244
+Brisbane Force,2015,1225,1414
+Dingley Stars,2015,1221,1425
+Bellambi,2015,1211,1309
+Gazy Lansvale,2015,1206,1206
+Wests Illawarra,2015,1202,1248
+Port Darwin,2015,1198,1385
+Hurstville City Minotaurs,2015,1190,1294
+Kiama Quarriers,2015,1180,1206
+University Azzurri,2015,1170,1124
+Wagga City Wanderers,2015,1163,1163
+Ellenbrook United,2015,1162,1214
+Balgownie Rangers,2015,1151,1169
+Gawler,2015,1148,1305
+Melbourne University,2015,1138,1288
+Kemblawarra,2015,1135,1191
+Nunawading City,2015,1132,1188
+Coomera,2015,1123,1131
+Palm Beach Sharks,2015,1115,1115
+Vikings,2015,1115,1035
+Gympie Diggers,2015,1087,1087
+Kelmscott Roos,2015,1037,1196
+Coolum Dolphins,2015,1018,1018
+Mindil,2015,1014,987
+Coniston Lions,2015,1008,1100
+Merrimac,2015,999,1156
+Palmerston,2015,945,1020
+Nambour Yandina United,2015,943,1015
+Buckleys,2015,935,1084
+Beerwah Glasshouse,2015,811,858
+Melbourne Victory,2015,2386,2299
+Sydney FC,2015,2347,2230
+Brisbane Roar,2015,2317,2262
+Western Sydney Wanderers,2015,2316,2187
+Melbourne City FC,2015,2300,2174
+Adelaide United,2015,2290,2323
+Perth Glory,2015,2282,2290
+Wellington Phoenix,2015,2234,2225
+Newcastle United Jets,2015,2147,2106
+Central Coast Mariners,2015,2144,2203
+Blacktown City FC,2015,2064,1984
+Bentleigh Greens,2015,2027,1970
+Bonnyrigg White Eagles,2015,2026,1996
+South Melbourne FC,2015,2016,2009
+Bayswater City SC,2015,2014,1899
+Adelaide City FC,2015,2002,1995
+Croydon Kings,2015,1985,1984
+West Adelaide Hellas,2015,1984,1962
+Adelaide Blue Eagles,2015,1975,1971
+MetroStars SC,2015,1955,2109
+Heidelberg United,2015,1955,1878
+Brisbane Strikers,2015,1949,1901
+Sydney Olympic,2015,1943,1904
+Moreton Bay Jets,2015,1939,1812
+Hume City FC,2015,1935,1806
+Melbourne Knights,2015,1930,1906
+South Hobart FC,2015,1909,1948
+Perth SC,2015,1900,1817
+Rockdale City Suns,2015,1900,1849
+Lions FC,2015,1893,1838
+West Torrens Birkalla,2015,1889,1796
+Campbelltown City SC,2015,1888,1858
+Olympic FC,2015,1883,1974
+Green Gully SC,2015,1882,1808
+APIA Leichhardt Tigers,2015,1881,1711
+Redlands United,2015,1880,1813
+Gold Coast City,2015,1875,1912
+Oakleigh Cannons,2015,1863,1996
+South Coast Wolves,2015,1862,1800
+Edgeworth FC,2015,1857,1735
+Belconnen United,2015,1850,1905
+Lambton Jaffas,2015,1848,1809
+Olympia Warriors,2015,1847,1713
+Sorrento FC,2015,1844,1768
+Pascoe Vale SC,2015,1832,1791
+Canberra FC,2015,1827,1849
+Manly United,2015,1826,1787
+Far North Qld Heat,2015,1823,1830
+Sydney United 58,2015,1823,1882
+Hobart Zebras,2015,1822,1817
+Floreat Athena,2015,1820,1720
+Canberra Olympic,2015,1818,1794
+Sutherland Sharks,2015,1815,1845
+Hamilton Olympic,2015,1812,1749
+Peninsula Power,2015,1810,1828
+Brisbane Roar (Y),2015,1810,1696
+Northcote City FC,2015,1808,1911
+Port Melbourne Sharks SC,2015,1806,1772
+Richmond,2015,1800,1782
+Broadmeadow Magic,2015,1796,1736
+Cooma FC,2015,1795,1799
+Adelaide Comets,2015,1794,1810
+Blacktown Spartans,2015,1793,1800
+Northern Tigers,2015,1788,1718
+South Adelaide Panthers,2015,1786,1777
+Avondale FC,2015,1784,1734
+Port Adelaide Pirates,2015,1782,1794
+Port Adelaide Pirates,2015,1782,1794
+Ashfield,2015,1775,1767
+Eastern Suburbs,2015,1773,1716
+Adamstown Rosebud,2015,1773,1699
+Sydney FC (Y),2015,1772,1739
+Adelaide Raiders,2015,1768,1776
+Mornington,2015,1768,1725
+Brisbane City FC,2015,1766,1829
+Cumberland United,2015,1764,1760
+Adelaide United (Y),2015,1757,1662
+Melbourne Victory (Y),2015,1755,1715
+Modbury Jets,2015,1753,1769
+White City FC,2015,1750,1791
+Moreland Zebras,2015,1748,1711
+Shamrock Rovers Perth,2015,1747,1781
+Bulleen Lions,2015,1743,1696
+Parramatta FC,2015,1743,1737
+Valentine FC,2015,1735,1774
+Moreland City,2015,1734,1680
+Maitland FC,2015,1733,1854
+Weston Workers FC,2015,1733,1745
+Cockburn City SC,2015,1730,1789
+Ballarat Red Devils,2015,1723,1556
+Spirit FC,2015,1723,1605
+Melbourne City (Y),2015,1719,1724
+Sunshine Coast Fire,2015,1719,1815
+Northern Rangers,2015,1717,1726
+North Geelong Warriors,2015,1715,1726
+Mandurah City,2015,1715,1508
+Northern Fury,2015,1714,1690
+Stirling Lions SC,2015,1708,1850
+North Shore Mariners,2015,1705,1705
+Wolves FC,2015,1705,1859
+Balcatta SC,2015,1703,1769
+Bankstown City Lions,2015,1698,1622
+St Albans Saints,2015,1698,1717
+Para Hills Knights,2015,1697,1793
+Box Hill United,2015,1697,1708
+Newcastle United Jets (Y),2015,1686,1699
+Gungahlin United,2015,1686,1686
+Dandenong City,2015,1676,1596
+Adelaide Olympic,2015,1672,1649
+Hakoah Sydney City East,2015,1671,1689
+Dandenong Thunder,2015,1670,1815
+Mitchelton,2015,1670,1615
+Sydenham Park,2015,1668,1619
+Langwarrin,2015,1668,1672
+FC Clifton Hill,2015,1666,1539
+Altona Magic,2015,1666,1606
+Werribee City FC,2015,1661,1735
+Western Strikers,2015,1658,1707
+Central Coast Mariners (Y),2015,1655,1616
+Central Coast FC,2015,1653,1653
+Marconi Stallions,2015,1651,1815
+Goulburn Valley Suns,2015,1651,1654
+Preston Lions,2015,1650,1618
+South Springvale,2015,1646,1639
+Joondalup United,2015,1643,1576
+Western Knights,2015,1642,1680
+ECU Joondalup,2015,1640,1720
+Kingston City,2015,1638,1619
+Dapto Dandaloo Fury,2015,1636,1579
+Adelaide Hills,2015,1635,1648
+Western Pride,2015,1634,1638
+Rochedale Rovers,2015,1628,1542
+The Cove,2015,1626,1498
+Macarthur Rams,2015,1623,1708
+Eastern Lions,2015,1623,1656
+Charlestown City Blues,2015,1621,1735
+Logan Lightning,2015,1619,1637
+Fraser Park,2015,1619,1578
+South West Phoenix,2015,1617,1715
+Sunshine George Cross,2015,1613,1635
+Inglewood United,2015,1611,1634
+Western Suburbs,2015,1610,1516
+Devonport City,2015,1607,1686
+Wallsend FC,2015,1606,1606
+South Cardiff FC,2015,1598,1695
+Western Sydney Wanderers (Y),2015,1595,1677
+Albany Creek,2015,1595,1473
+Ipswich Knights,2015,1595,1605
+Perth Glory (Y),2015,1594,1657
+Lake Macquarie City,2015,1593,1599
+Capalaba,2015,1591,1584
+Bankstown Berries,2015,1588,1609
+Playford City Patriots,2015,1586,1640
+Bendigo City,2015,1579,1601
+Whittlesea Ranges,2015,1578,1474
+Malvern City,2015,1578,1563
+Rockingham City,2015,1576,1499
+Salisbury United,2015,1575,1697
+North Sunshine Eagles,2015,1575,1584
+Wollongong United,2015,1575,1490
+Dianella White Eagles,2015,1574,1496
+ANU FC,2015,1574,1530
+Forrestfield United,2015,1572,1398
+Balmain Tigers FC,2015,1567,1557
+Hills Brumbies,2015,1561,1555
+FFA COE,2015,1559,1522
+Belmont Swansea United,2015,1558,1601
+Kingborough Lions United,2015,1555,1505
+Bulli,2015,1554,1593
+Woden Weston FC,2015,1548,1669
+Adelaide Victory,2015,1546,1542
+Subiaco AFC,2015,1545,1461
+Mt Druitt Town Rangers,2015,1542,1481
+St George FC,2015,1542,1683
+Sydney University,2015,1540,1579
+Keilor Park,2015,1539,1554
+Mounties Wanderers,2015,1537,1629
+Warragul United,2015,1536,1463
+Picton Rangers,2015,1535,1502
+Sturt Lions,2015,1535,1405
+Yarraville,2015,1524,1507
+Frankston Pines,2015,1523,1447
+Armadale SC,2015,1523,1495
+Holland Park Hawks,2015,1522,1522
+Kahibah FC,2015,1521,1521
+White Eagles,2015,1519,1486
+Gosnells City,2015,1514,1490
+Southern Districts SFA,2015,1510,1510
+Darwin Olympic,2015,1510,1445
+Berwick City,2015,1507,1451
+Hawkesbury City,2015,1506,1493
+Morwell Pegasus,2015,1504,1552
+Manningham United Blues,2015,1503,1554
+Murray United,2015,1503,1503
+Launceston City FC,2015,1499,1393
+Rydalmere Lions,2015,1494,1517
+Stanmore Hawks,2015,1492,1449
+Canning City,2015,1488,1610
+Casey Comets,2015,1484,1490
+Singleton SC,2015,1483,1376
+Diamond Valley United,2015,1477,1478
+UWA Nedlands,2015,1473,1486
+Fremantle City,2015,1472,1472
+Dulwich Hill,2015,1470,1445
+Altona East Phoenix,2015,1470,1478
+Port Kembla,2015,1469,1555
+Warilla Wanderers,2015,1468,1529
+Hellenic,2015,1466,1291
+Cairnlea,2015,1466,1555
+Kawana Force,2015,1466,1466
+Moreland United,2015,1465,1424
+North Star,2015,1462,1407
+Westgate,2015,1461,1490
+Brunswick City,2015,1461,1450
+Banyule City,2015,1460,1330
+Hurstville FC,2015,1452,1378
+Springvale White Eagles,2015,1449,1531
+Corio,2015,1449,1476
+Cooks Hill United,2015,1445,1445
+Gladesville Ryde Magic,2015,1445,1463
+Adelaide Cobras,2015,1444,1487
+Mooroolbark,2015,1443,1346
+Moggill,2015,1443,1489
+Beaumaris,2015,1442,1431
+Corrimal Rangers,2015,1441,1362
+Prospect United,2015,1441,1430
+Seaford Rangers,2015,1440,1527
+Geelong,2015,1439,1374
+Taringa Rovers,2015,1439,1505
+Wollongong Olympic,2015,1438,1423
+Wanneroo City,2015,1438,1499
+Old Scotch,2015,1438,1413
+Pine Rivers United,2015,1436,1439
+Essendon Royals,2015,1431,1431
+Tuggeranong United,2015,1430,1507
+North Pine,2015,1429,1367
+Dunbar Rovers,2015,1428,1428
+Tarrawanna Blueys,2015,1424,1452
+Morley-Windmills,2015,1424,1541
+Sunbury United,2015,1421,1502
+Sporting Whittlesea,2015,1416,1355
+Albion Park White Eagles,2015,1415,1323
+Narrabundah,2015,1414,1451
+Noble Park United,2015,1411,1525
+Granville Rage,2015,1408,1469
+Heatherton United,2015,1408,1404
+Monaro Panthers (Res),2015,1406,1406
+Monaro Panthers,2015,1405,1454
+SWQ Thunder,2015,1404,1470
+Thornton Redbacks,2015,1401,1495
+Thirroul,2015,1392,1346
+Woombye Snakes,2015,1390,1396
+Helensburgh Thistle,2015,1388,1311
+Noosa Lions,2015,1387,1278
+Maroochydore Swans,2015,1386,1317
+Northern Demons,2015,1385,1409
+South Coast United,2015,1383,1396
+Queanbeyan City,2015,1383,1487
+Western Condors,2015,1382,1367
+Brisbane Knights,2015,1382,1382
+Joondalup City,2015,1381,1425
+Swan United,2015,1377,1510
+UQ FC,2015,1377,1419
+North Caulfield,2015,1375,1323
+Fitzroy City,2015,1375,1387
+Shell Cove,2015,1375,1452
+Inter Lions,2015,1371,1317
+Mount Gravatt,2015,1365,1372
+Noarlunga United,2015,1364,1342
+Bayside United,2015,1361,1537
+Toronto Awaba,2015,1360,1476
+Glenorchy Knights,2015,1356,1480
+Scorpions,2015,1356,1330
+Celtic,2015,1353,1351
+Olympic Kingsway,2015,1352,1288
+Cessnock City,2015,1351,1443
+Doveton,2015,1349,1416
+Doncaster Rovers,2015,1348,1362
+Fernhill,2015,1345,1263
+Oak Flats Falcons,2015,1345,1336
+Western NSW Mariners FC,2015,1343,1357
+Broadbeach United,2015,1339,1420
+Curtin University,2015,1338,1433
+Southside Eagles,2015,1332,1362
+Canberra Olympic (Res),2015,1328,1328
+Berkeley Sports,2015,1322,1410
+Melville City,2015,1322,1379
+Nepean FC,2015,1314,1364
+Magic United,2015,1312,1312
+Balga,2015,1312,1277
+Camden Tigers,2015,1308,1343
+Caboolture Sports,2015,1308,1308
+Sandringham,2015,1306,1306
+West Wallsend,2015,1305,1363
+University of Wollongong,2015,1304,1237
+Eastern United,2015,1301,1466
+Woonona,2015,1301,1303
+Peninsula Strikers,2015,1299,1305
+Westvale,2015,1299,1493
+O'Connor Knights,2015,1298,1440
+Buderim Wanderers,2015,1296,1238
+Seaford United,2015,1283,1256
+Essendon United,2015,1283,1283
+Cringila Lions,2015,1282,1270
+Tuggeranong United (Res),2015,1281,1158
+Quinns FC,2015,1273,1279
+Casuarina,2015,1269,1289
+ADFA,2015,1266,1360
+Mudgeeraba,2015,1247,1227
+Old Melburnians,2015,1245,1245
+Surfers Paradise,2015,1244,1121
+Annerley,2015,1241,1271
+Heidelberg Stars,2015,1239,1245
+Caloundra,2015,1239,1325
+Grange Thistle,2015,1238,1209
+University of NSW,2015,1233,1218
+Murwillumbah,2015,1230,1303
+Hume United,2015,1226,1244
+Brisbane Force,2015,1225,1414
+Dingley Stars,2015,1221,1425
+Bellambi,2015,1211,1309
+Gazy Lansvale,2015,1206,1206
+Wests Illawarra,2015,1202,1248
+Port Darwin,2015,1198,1385
+Hurstville City Minotaurs,2015,1190,1294
+Kiama Quarriers,2015,1180,1206
+University Azzurri,2015,1170,1124
+Wagga City Wanderers,2015,1163,1163
+Ellenbrook United,2015,1162,1214
+Balgownie Rangers,2015,1151,1169
+Gawler,2015,1148,1305
+Melbourne University,2015,1138,1288
+Kemblawarra,2015,1135,1191
+Nunawading City,2015,1132,1188
+Coomera,2015,1123,1131
+Palm Beach Sharks,2015,1115,1115
+Vikings,2015,1115,1035
+Gympie Diggers,2015,1087,1087
+Kelmscott Roos,2015,1037,1196
+Coolum Dolphins,2015,1018,1018
+Mindil,2015,1014,987
+Coniston Lions,2015,1008,1100
+Merrimac,2015,999,1156
+Palmerston,2015,945,1020
+Nambour Yandina United,2015,943,1015
+Buckleys,2015,935,1084
+Beerwah Glasshouse,2015,811,858
+Sydney FC,2016,2411,2347
+Melbourne City FC,2016,2403,2300
+Melbourne Victory,2016,2400,2386
+Brisbane Roar,2016,2341,2317
+Adelaide United,2016,2317,2290
+Western Sydney Wanderers,2016,2282,2316
+Perth Glory,2016,2273,2282
+Newcastle United Jets,2016,2181,2147
+Wellington Phoenix,2016,2181,2234
+Blacktown City FC,2016,2115,2064
+Central Coast Mariners,2016,2079,2144
+South Melbourne FC,2016,2064,2016
+Sydney United 58,2016,2057,1823
+Adelaide City FC,2016,2051,2002
+Bentleigh Greens,2016,2049,2027
+Edgeworth FC,2016,2010,1857
+Heidelberg United,2016,2007,1955
+Campbelltown City SC,2016,2002,1888
+Bonnyrigg White Eagles,2016,1989,2026
+Brisbane Strikers,2016,1972,1949
+Oakleigh Cannons,2016,1972,1863
+MetroStars SC,2016,1966,1955
+Adelaide Blue Eagles,2016,1964,1975
+Canberra Olympic,2016,1958,1818
+South Hobart FC,2016,1932,1909
+Hume City FC,2016,1931,1935
+West Torrens Birkalla,2016,1928,1889
+Green Gully SC,2016,1925,1882
+Manly United,2016,1908,1826
+West Adelaide Hellas,2016,1905,1984
+Hamilton Olympic,2016,1902,1812
+Sydney Olympic,2016,1902,1943
+Rockdale City Suns,2016,1901,1900
+Perth SC,2016,1898,1900
+Broadmeadow Magic,2016,1898,1796
+Lions FC,2016,1894,1893
+Gold Coast City,2016,1891,1875
+Croydon Kings,2016,1886,1985
+Redlands United,2016,1880,1880
+Bayswater City SC,2016,1874,2014
+Cumberland United,2016,1874,1764
+APIA Leichhardt Tigers,2016,1872,1881
+Adelaide Comets,2016,1856,1794
+Pascoe Vale SC,2016,1855,1832
+Avondale FC,2016,1850,1784
+Canberra FC,2016,1847,1827
+Moreton Bay Jets,2016,1845,1939
+Floreat Athena,2016,1833,1820
+Melbourne Knights,2016,1833,1930
+Far North Qld Heat,2016,1832,1823
+Cooma FC,2016,1831,1795
+Sydney FC (Y),2016,1830,1772
+Brisbane City FC,2016,1822,1766
+Olympic FC,2016,1822,1883
+North Geelong Warriors,2016,1819,1715
+Hobart Zebras,2016,1818,1822
+Devonport City,2016,1810,1607
+Sutherland Sharks,2016,1807,1815
+Sorrento FC,2016,1805,1844
+Lambton Jaffas,2016,1794,1848
+Maitland FC,2016,1791,1733
+Belconnen United,2016,1786,1850
+ECU Joondalup,2016,1784,1640
+Port Melbourne Sharks SC,2016,1772,1806
+Brisbane Roar (Y),2016,1769,1810
+Parramatta FC,2016,1764,1743
+Wollongong Wolves,2016,1763,1763
+Richmond,2016,1762,1800
+Mandurah City,2016,1762,1715
+Bulleen Lions,2016,1759,1743
+Altona Magic,2016,1758,1666
+Stirling Lions SC,2016,1757,1708
+Joondalup United,2016,1755,1643
+Kingston City,2016,1753,1638
+Dandenong Thunder,2016,1752,1670
+Northcote City FC,2016,1749,1808
+Newcastle United Jets (Y),2016,1748,1686
+Mornington,2016,1742,1768
+Western Sydney Wanderers (Y),2016,1739,1595
+South Adelaide Panthers,2016,1738,1786
+Peninsula Power,2016,1734,1810
+St Albans Saints,2016,1733,1698
+Inglewood United,2016,1733,1611
+Melbourne City (Y),2016,1732,1719
+White City FC,2016,1731,1750
+Cockburn City SC,2016,1726,1730
+Adelaide United (Y),2016,1721,1757
+Ashfield,2016,1717,1775
+Hakoah Sydney City East,2016,1717,1671
+Blacktown Spartans,2016,1715,1793
+FC Clifton Hill,2016,1715,1666
+Marconi Stallions,2016,1712,1651
+Mitchelton,2016,1712,1670
+Valentine FC,2016,1706,1735
+Eastern Suburbs,2016,1704,1773
+Sturt Lions,2016,1704,1535
+Preston Lions,2016,1702,1650
+Para Hills Knights,2016,1701,1697
+Charlestown City Blues,2016,1698,1621
+Adelaide Olympic,2016,1693,1672
+Port Adelaide Pirates,2016,1687,1782
+Modbury Jets,2016,1679,1753
+Adelaide Raiders,2016,1677,1768
+Lake Macquarie City,2016,1676,1593
+Malvern City,2016,1675,1578
+Bankstown City Lions,2016,1675,1698
+Moreland Zebras,2016,1671,1748
+Sunshine Coast Fire,2016,1670,1719
+Western Pride,2016,1668,1634
+Dandenong City,2016,1667,1676
+Olympia Warriors,2016,1665,1847
+North Sunshine Eagles,2016,1663,1575
+Holland Park Hawks,2016,1663,1522
+Rochedale Rovers,2016,1661,1628
+The Cove,2016,1658,1626
+Gungahlin United,2016,1656,1686
+Ballarat Red Devils,2016,1650,1723
+Spirit FC,2016,1650,1723
+Northern Tigers,2016,1649,1788
+Balcatta SC,2016,1648,1703
+Adamstown Rosebud,2016,1648,1773
+Central Coast Mariners (Y),2016,1647,1655
+Western Knights,2016,1647,1642
+Albany Creek,2016,1643,1595
+Mt Druitt Town Rangers,2016,1643,1542
+Wallsend FC,2016,1642,1606
+Box Hill United,2016,1640,1697
+Capalaba,2016,1638,1591
+Fraser Park,2016,1636,1619
+Hills Brumbies,2016,1636,1561
+Macarthur Rams,2016,1635,1623
+Forrestfield United,2016,1632,1572
+Western Strikers,2016,1632,1658
+Rydalmere Lions,2016,1630,1494
+Weston Workers FC,2016,1627,1733
+Canberra United Academy,2016,1618,1618
+Langwarrin,2016,1617,1668
+North Shore Mariners,2016,1616,1705
+Salisbury United,2016,1616,1575
+Mounties Wanderers,2016,1613,1537
+Bulli,2016,1611,1554
+Whittlesea Ranges,2016,1611,1578
+Belmont Swansea United,2016,1610,1558
+Sydenham Park,2016,1607,1668
+Eastern Lions,2016,1604,1623
+Adelaide Victory,2016,1602,1546
+Brunswick City,2016,1602,1461
+Rockingham City,2016,1600,1576
+Moreland City,2016,1600,1734
+Werribee City FC,2016,1599,1661
+Perth Glory (Y),2016,1599,1594
+Kemblawarra Fury,2016,1598,1598
+Goulburn Valley Suns,2016,1595,1651
+Bankstown Berries,2016,1594,1588
+Albion Park White Eagles,2016,1590,1415
+Casey Comets,2016,1589,1484
+St George FC,2016,1589,1542
+ANU FC,2016,1582,1574
+Melbourne Victory (Y),2016,1580,1755
+Canning City,2016,1579,1488
+FFA COE,2016,1574,1559
+Manningham United Blues,2016,1572,1503
+Logan Lightning,2016,1571,1619
+Armadale SC,2016,1571,1523
+Sydney University,2016,1564,1540
+Springvale White Eagles,2016,1563,1449
+Warilla Wanderers,2016,1562,1468
+Fremantle City,2016,1562,1472
+Warragul United,2016,1561,1536
+Northern Fury,2016,1557,1714
+South West Phoenix,2016,1556,1617
+UWA Nedlands,2016,1551,1473
+Stanmore Hawks,2016,1551,1492
+Corrimal Rangers,2016,1549,1441
+Kahibah FC,2016,1548,1521
+Adelaide Hills,2016,1548,1635
+Kingborough Lions United,2016,1540,1555
+Darwin Olympic,2016,1539,1510
+Wollongong United,2016,1538,1575
+Subiaco AFC,2016,1532,1545
+Sunshine George Cross,2016,1530,1613
+SD Raiders,2016,1529,1529
+Wolves FC,2016,1527,1705
+Tuggeranong United,2016,1527,1430
+Dunbar Rovers,2016,1526,1428
+SWQ Thunder,2016,1525,1404
+Ipswich Knights,2016,1521,1595
+Geelong,2016,1517,1439
+South Springvale,2016,1514,1646
+Western Suburbs,2016,1513,1610
+Essendon Royals,2016,1512,1431
+Beaumaris,2016,1510,1442
+Hurstville FC,2016,1510,1452
+Keilor Park,2016,1509,1539
+Banyule City,2016,1508,1460
+Shamrock Rovers Perth,2016,1507,1747
+Wollongong Olympic,2016,1500,1438
+Dianella White Eagles,2016,1499,1574
+Picton Rangers,2016,1499,1535
+Westgate,2016,1496,1461
+Northern Rangers,2016,1492,1717
+Port Kembla,2016,1491,1469
+Yarraville,2016,1490,1524
+Hellenic,2016,1487,1466
+North Star,2016,1487,1462
+Gosnells City,2016,1483,1514
+Old Scotch,2016,1482,1438
+South Cardiff FC,2016,1480,1598
+Woden Weston FC,2016,1478,1548
+Launceston City FC,2016,1476,1499
+Singleton SC,2016,1474,1483
+Hawkesbury City,2016,1473,1506
+St Kilda,2016,1471,1471
+Thornton Redbacks,2016,1470,1401
+Fernhill,2016,1462,1345
+White Eagles,2016,1460,1519
+Altona East Phoenix,2016,1455,1470
+Seaford Rangers,2016,1452,1440
+Gladesville Ryde Magic,2016,1452,1445
+Adelaide Cobras,2016,1450,1444
+Grange Thistle,2016,1449,1238
+Tarrawanna Blueys,2016,1447,1424
+Noarlunga United,2016,1446,1364
+Kawana Force,2016,1443,1466
+Murray United,2016,1442,1503
+Morwell Pegasus,2016,1441,1504
+Monaro Panthers,2016,1433,1405
+Berwick City,2016,1432,1507
+Playford City Patriots,2016,1432,1586
+Southside Eagles,2016,1432,1332
+Joondalup City,2016,1432,1381
+Queanbeyan City,2016,1430,1383
+St George FA,2016,1429,1429
+Caulfield United Cobras,2016,1428,1428
+Balmain Tigers FC,2016,1423,1567
+Souths United,2016,1422,1422
+Frankston Pines,2016,1421,1523
+Moreland United,2016,1416,1465
+Bendigo City,2016,1412,1579
+Broadbeach United,2016,1408,1339
+Mooroolbark,2016,1403,1443
+Bayside United,2016,1401,1361
+Balga,2016,1400,1312
+Cairnlea,2016,1398,1466
+Surfers Paradise,2016,1396,1244
+Taringa Rovers,2016,1390,1439
+South Coast United,2016,1388,1383
+Cooks Hill United,2016,1388,1445
+Altona City,2016,1388,1388
+Inter Lions,2016,1387,1371
+Sporting Whittlesea,2016,1387,1416
+North Caulfield,2016,1386,1375
+Canberra Olympic (Res),2016,1381,1328
+Diamond Valley United,2016,1380,1477
+Fulham United,2016,1375,1375
+Woombye Snakes,2016,1373,1390
+Dulwich Hill,2016,1373,1470
+Moggill,2016,1369,1443
+Narrabundah,2016,1367,1414
+Weston Molongo,2016,1366,1366
+UQ FC,2016,1364,1377
+West Wallsend,2016,1363,1305
+Celtic,2016,1363,1353
+Camden Tigers,2016,1362,1308
+North Pine,2016,1361,1429
+West Wanderers,2016,1356,1356
+Brisbane Knights,2016,1355,1382
+Maroochydore Swans,2016,1354,1386
+Morley-Windmills,2016,1351,1424
+Doveton,2016,1344,1349
+Fitzroy City,2016,1343,1375
+Woonona,2016,1342,1301
+Helensburgh Thistle,2016,1339,1388
+Northern Demons,2016,1335,1385
+Swan United,2016,1335,1377
+Quinns FC,2016,1334,1273
+Hoppers Crossing,2016,1333,1333
+Wanneroo City,2016,1333,1438
+Clarence United,2016,1331,1331
+Scorpions,2016,1327,1356
+Prospect United,2016,1326,1441
+Thirroul,2016,1324,1392
+Corio,2016,1324,1449
+Mount Gravatt,2016,1324,1365
+Granville Rage,2016,1322,1408
+Melville City,2016,1320,1322
+Gawler,2016,1319,1148
+Western Condors,2016,1318,1382
+Doncaster Rovers,2016,1313,1348
+Buderim Wanderers,2016,1309,1296
+Cessnock City,2016,1309,1351
+Olympic Kingsway,2016,1309,1352
+Seaford United,2016,1305,1283
+Vipers FC,2016,1303,1303
+Magic United,2016,1301,1312
+Curtin University,2016,1299,1338
+Noosa Lions,2016,1290,1387
+Murwillumbah,2016,1287,1230
+Shell Cove,2016,1284,1375
+Berkeley Sports,2016,1278,1322
+Nepean FC,2016,1277,1314
+Toronto Awaba,2016,1277,1360
+Sunbury United,2016,1272,1421
+Oak Flats Falcons,2016,1265,1345
+Bankstown United,2016,1264,1264
+Kiama Quarriers,2016,1260,1180
+O'Connor Knights,2016,1260,1298
+Heatherton United,2016,1256,1408
+Peninsula Strikers,2016,1251,1299
+Essendon United,2016,1251,1283
+Balgownie Rangers,2016,1249,1151
+Willowburn,2016,1246,1246
+Cringila Lions,2016,1246,1282
+Tuggeranong United (Res),2016,1233,1281
+Caloundra,2016,1232,1239
+Casuarina,2016,1228,1269
+Hurstville City Minotaurs,2016,1225,1190
+Centenary Stormers,2016,1225,1225
+Hume United,2016,1221,1226
+Western NSW Mariners FC,2016,1217,1343
+Gatton,2016,1217,1217
+Eastern United,2016,1216,1301
+Pine Rivers United,2016,1214,1436
+Heidelberg Stars,2016,1208,1239
+Shamrock Rovers (NT),2016,1204,1204
+Mount Barker United,2016,1203,1203
+University of Wollongong,2016,1203,1304
+USQ FC,2016,1189,1189
+Noble Park United,2016,1187,1411
+St Albans,2016,1182,1182
+Wests Illawarra,2016,1171,1202
+Warwick Wolves,2016,1170,1170
+Kelmscott Roos,2016,1155,1037
+University of NSW,2016,1149,1233
+Bellambi,2016,1142,1211
+Sandringham,2016,1132,1306
+Coomera,2016,1130,1123
+Wagga City Wanderers,2016,1128,1163
+Gazy Auburn,2016,1120,1120
+Port Darwin,2016,1115,1198
+University Azzurri,2016,1110,1170
+Nunawading City,2016,1108,1132
+Gympie Diggers,2016,1099,1087
+Palm Beach Sharks,2016,1093,1115
+Vikings,2016,1059,1115
+Mudgeeraba,2016,1056,1247
+Coolum Dolphins,2016,1050,1018
+Nambour Yandina United,2016,1048,943
+Burleigh Heads,2016,1045,1045
+Ellenbrook United,2016,1043,1162
+Rockville Rovers,2016,1005,1005
+Stormbirds,2016,911,911
+Beerwah Glasshouse,2016,788,811
+Sydney FC,2017,2531,2411
+Melbourne Victory,2017,2357,2400
+Melbourne City FC,2017,2306,2403
+Adelaide United,2017,2302,2317
+Brisbane Roar,2017,2265,2341
+Western Sydney Wanderers,2017,2259,2282
+Perth Glory,2017,2258,2273
+Newcastle United Jets,2017,2234,2181
+Wellington Phoenix,2017,2156,2181
+Heidelberg United,2017,2133,2007
+Central Coast Mariners,2017,2127,2079
+APIA Leichhardt Tigers,2017,2121,1872
+Manly United,2017,2091,1908
+Bentleigh Greens,2017,2081,2049
+South Melbourne,2017,2070,2070
+Adelaide City,2017,2065,2065
+Blacktown City,2017,2042,2042
+MetroStars,2017,2016,2016
+Rockdale City Suns,2017,2010,1901
+Oakleigh Cannons,2017,1995,1972
+Croydon Kings,2017,1991,1886
+Brisbane Strikers,2017,1985,1972
+Sydney United 58,2017,1983,2057
+Edgeworth Eagles,2017,1975,1975
+Green Gully Cavaliers,2017,1964,1964
+Wollongong Wolves,2017,1951,1763
+Sydney Olympic,2017,1950,1902
+Pascoe Vale,2017,1946,1946
+Marconi Stallions,2017,1933,1712
+Moreton Bay United,2017,1931,1931
+Bayswater City,2017,1926,1926
+Hume City,2017,1926,1926
+Broadmeadow Magic,2017,1918,1898
+Perth SC,2017,1914,1898
+Avondale FC,2017,1913,1850
+Canberra Olympic,2017,1913,1958
+Lambton Jaffas,2017,1910,1794
+Gold Coast City,2017,1906,1891
+Adelaide Comets,2017,1900,1856
+South Hobart,2017,1897,1897
+Western Pride,2017,1897,1668
+Campbelltown City,2017,1897,1897
+West Adelaide,2017,1887,1887
+West Torrens Birkalla,2017,1886,1928
+Lions FC,2017,1884,1894
+Hamilton Olympic,2017,1871,1902
+Dandenong Thunder,2017,1857,1752
+Adelaide Blue Eagles,2017,1854,1964
+Olympic FC,2017,1853,1822
+Brisbane City,2017,1831,1831
+Hakoah Sydney City East,2017,1827,1717
+Kingston City,2017,1824,1753
+Bonnyrigg White Eagles,2017,1820,1989
+Bulleen Lions,2017,1819,1759
+Peninsula Power,2017,1817,1734
+Inglewood United,2017,1811,1733
+Altona Magic,2017,1808,1758
+Melbourne Knights,2017,1806,1833
+Para Hills Knights,2017,1803,1701
+Sorrento,2017,1802,1802
+Port Melbourne Sharks,2017,1795,1795
+Maitland,2017,1794,1794
+Northcote City,2017,1794,1794
+Belconnen United,2017,1790,1786
+Floreat Athena,2017,1786,1833
+Canberra FC,2017,1776,1847
+Moreland Zebras,2017,1774,1671
+Sydney FC (Y),2017,1770,1830
+FNQ FC Heat,2017,1769,1769
+Adelaide United (Y),2017,1757,1721
+Mornington,2017,1750,1742
+Cumberland United,2017,1750,1874
+Melbourne City (Y),2017,1748,1732
+Western Strikers,2017,1747,1632
+Western Knights,2017,1746,1647
+North Shore Mariners,2017,1746,1616
+Mt Druitt Town Rangers,2017,1745,1643
+Adelaide Olympic,2017,1745,1693
+Redlands United,2017,1744,1880
+Fraser Park,2017,1736,1636
+ECU Joondalup,2017,1735,1784
+Sturt Lions,2017,1734,1704
+Rochedale Rovers,2017,1734,1661
+Valentine FC,2017,1733,1706
+Bulli,2017,1730,1611
+Western Sydney Wanderers (Y),2017,1729,1739
+Dandenong City,2017,1727,1667
+Cooma FC,2017,1725,1831
+Stirling Lions,2017,1719,1719
+Rydalmere Lions,2017,1717,1630
+Devonport City,2017,1716,1810
+Sutherland Sharks,2017,1716,1807
+Olympia Warriors,2017,1714,1665
+North Sunshine Eagles,2017,1708,1663
+South Adelaide Panthers,2017,1699,1738
+Preston Lions,2017,1697,1702
+Hobart JEEP Zebras,2017,1697,1697
+Mounties Wanderers,2017,1690,1613
+St Albans Saints,2017,1689,1733
+Moreland City,2017,1687,1600
+North Geelong Warriors,2017,1685,1819
+Eastern Suburbs,2017,1680,1704
+White City Woodville,2017,1679,1679
+Northern Tigers,2017,1678,1649
+Spirit FC,2017,1678,1650
+Forrestfield United,2017,1676,1632
+Lake Macquarie City,2017,1672,1676
+Geelong,2017,1668,1517
+Dianella White Eagles,2017,1668,1499
+Gungahlin United,2017,1668,1656
+Kemblawarra Fury,2017,1666,1598
+Newcastle United Jets (Y),2017,1665,1748
+Bankstown Berries,2017,1661,1594
+Joondalup United,2017,1658,1755
+Adamstown Rosebud,2017,1656,1648
+Cockburn City,2017,1656,1656
+Holland Park Hawks,2017,1655,1663
+Clifton Hill,2017,1655,1655
+Langwarrin,2017,1654,1617
+Albany Creek,2017,1653,1643
+Adelaide Raiders,2017,1650,1677
+Charlestown City Blues,2017,1650,1698
+Central Coast Mariners (Y),2017,1650,1647
+Mitchelton,2017,1646,1712
+Goulburn Valley Suns,2017,1643,1595
+Modbury Jets,2017,1639,1679
+St George FC,2017,1636,1589
+Sunshine George Cross,2017,1634,1530
+South West Phoenix,2017,1631,1556
+Port Kembla,2017,1630,1491
+Sydenham Park,2017,1628,1607
+Malvern City,2017,1628,1675
+Brisbane Roar (Y),2017,1625,1769
+Northern Fury,2017,1621,1557
+Canberra United (Y),2017,1618,1618
+Subiaco,2017,1617,1617
+UWA-Nedlands FC,2017,1615,1615
+Whittlesea Ranges,2017,1615,1611
+Werribee City,2017,1614,1614
+Hills Brumbies,2017,1612,1636
+Box Hill United,2017,1610,1640
+The Cove,2017,1609,1658
+Blacktown Spartans,2017,1603,1715
+Port Adelaide Pirates,2017,1603,1687
+Ashfield,2017,1600,1717
+Hellenic,2017,1592,1487
+Wollongong Olympic,2017,1591,1500
+Eastern Lions,2017,1590,1604
+Armadale,2017,1590,1590
+Cooks Hill United,2017,1589,1388
+Warragul United,2017,1588,1561
+Ballarat City,2017,1585,1585
+Tuggeranong United,2017,1582,1527
+Richmond,2017,1577,1762
+Fremantle City,2017,1576,1562
+Brunswick City,2017,1573,1602
+Warilla Wanderers,2017,1572,1562
+Belmont Swansea United,2017,1570,1610
+SWQ Thunder,2017,1569,1525
+Murray United,2017,1569,1442
+Rockingham City,2017,1568,1600
+Perth Glory (Y),2017,1564,1599
+Parramatta FC,2017,1564,1764
+Logan Lightning,2017,1564,1571
+Mandurah City,2017,1563,1762
+Kahibah,2017,1558,1558
+Albion Park White Eagles,2017,1555,1590
+Melbourne Victory (Y),2017,1555,1580
+ANU FC,2017,1554,1582
+Banyule City,2017,1554,1508
+SD Raiders,2017,1551,1529
+St George City,2017,1551,1551
+Caulfield United Cobras,2017,1548,1428
+Springvale White Eagles,2017,1548,1563
+Salisbury United,2017,1547,1616
+Altona City,2017,1545,1388
+Grange Thistle,2017,1545,1449
+Manningham United Blues,2017,1544,1572
+Ipswich Knights,2017,1543,1521
+Casey Comets,2017,1543,1589
+Souths United,2017,1543,1422
+Weston Workers,2017,1542,1542
+Macarthur Rams,2017,1537,1635
+Keilor Park,2017,1533,1509
+Taringa Rovers,2017,1533,1390
+Beaumaris,2017,1527,1510
+Capalaba,2017,1524,1638
+Balcatta,2017,1524,1524
+Western Suburbs,2017,1520,1513
+Sydney University,2017,1516,1564
+Fernhill,2017,1515,1462
+Wollongong United,2017,1515,1538
+Dulwich Hill,2017,1510,1373
+Noarlunga United,2017,1503,1446
+Dunbar Rovers,2017,1493,1526
+Tarrawanna Blueys,2017,1493,1447
+Hawkesbury City,2017,1493,1473
+Gladesville Ryde Magic,2017,1491,1452
+Adelaide Victory,2017,1491,1602
+Adelaide Hills,2017,1489,1548
+South Cardiff,2017,1487,1487
+Morwell Pegasus,2017,1485,1441
+Seaford Rangers,2017,1484,1452
+Joondalup City,2017,1483,1432
+Fulham United,2017,1480,1375
+Woden Weston FC,2017,1477,1478
+Essendon Royals,2017,1475,1512
+Fitzroy City,2017,1473,1343
+Darwin Olympic,2017,1473,1539
+Sunshine Coast Fire,2017,1469,1670
+Brisbane Knights,2017,1469,1355
+St Kilda,2017,1468,1471
+Berwick City,2017,1464,1432
+Thornton Redbacks,2017,1464,1470
+Wallsend,2017,1464,1464
+Hoppers Crossing,2017,1461,1333
+Camden Tigers,2017,1459,1362
+Yarraville Glory,2017,1459,1459
+Launceston City,2017,1458,1458
+Northern Rangers,2017,1453,1492
+Hurstville FC,2017,1453,1510
+Riverina Rhinos,2017,1449,1449
+South Springvale,2017,1449,1514
+Wolves FC,2017,1446,1527
+North Pine,2017,1443,1361
+Adelaide Cobras,2017,1441,1450
+Morley-Windmills,2017,1439,1351
+Southside Eagles,2017,1437,1432
+Doveton,2017,1431,1344
+Gosnells City,2017,1429,1483
+Westgate,2017,1428,1496
+Helensburgh Thistle,2017,1428,1339
+Gwelup Croatia,2017,1427,1427
+New Lambton,2017,1412,1412
+Corrimal Rangers,2017,1409,1549
+Canning City,2017,1407,1579
+Monaro Panthers,2017,1407,1433
+Corio,2017,1405,1324
+Broadbeach United,2017,1405,1408
+Bayside United,2017,1405,1401
+Eltham Redbacks,2017,1404,1404
+Nepean FC,2017,1403,1277
+Bankstown United,2017,1402,1264
+Bankstown City,2017,1401,1401
+Old Scotch,2017,1400,1482
+Stanmore Hawks,2017,1400,1551
+Celtic,2017,1396,1363
+Noosa Lions,2017,1393,1290
+Kingborough Lions,2017,1389,1389
+Hume United,2017,1386,1221
+Northern Demons,2017,1384,1335
+Altona East Phoenix,2017,1383,1455
+North Star,2017,1382,1487
+Kawana Force,2017,1380,1443
+Nunawading City,2017,1380,1108
+White Eagles,2017,1378,1460
+Thirroul,2017,1374,1324
+O'Connor Knights,2017,1373,1260
+West Wallsend,2017,1369,1363
+Picton Rangers,2017,1363,1499
+Weston Molongo,2017,1360,1366
+UQ FC,2017,1358,1364
+Granville Rage,2017,1357,1322
+Singleton Strikers,2017,1356,1356
+Gold Coast Knights,2017,1355,1355
+South Coast United,2017,1353,1388
+Mazenod United,2017,1346,1346
+Surfers Paradise,2017,1344,1396
+Prospect United,2017,1343,1326
+Olympic Kingsway,2017,1342,1309
+Sporting Whittlesea,2017,1338,1387
+Canberra Olympic (Res),2017,1337,1381
+Melville City,2017,1335,1320
+West Wanderers,2017,1334,1356
+Gawler,2017,1330,1319
+USQ FC,2017,1330,1189
+Willowburn,2017,1326,1246
+Darwin Rovers,2017,1326,1326
+Clarence United,2017,1324,1331
+Mooroolbark,2017,1322,1403
+Adelaide University,2017,1319,1319
+Casuarina,2017,1318,1228
+Quinns FC,2017,1317,1334
+Oak Flats Falcons,2017,1317,1265
+Wanneroo City,2017,1316,1333
+Swan United,2017,1314,1335
+Vipers FC,2017,1314,1303
+Maroochydore Swans,2017,1310,1354
+Frankston Pines,2017,1309,1421
+Cringila Lions,2017,1304,1246
+Berkeley Sports,2017,1302,1278
+Balmain Tigers FC,2017,1302,1423
+Mount Gravatt,2017,1298,1324
+University of NSW,2017,1295,1149
+The Gap,2017,1294,1294
+Queanbeyan City,2017,1293,1430
+North Caulfield,2017,1292,1386
+Doncaster Rovers,2017,1290,1313
+Woonona,2017,1288,1342
+Woombye Snakes,2017,1284,1373
+Acacia Ridge,2017,1283,1283
+Cairnlea,2017,1281,1398
+Geelong Rangers,2017,1281,1281
+Heatherton United,2017,1280,1256
+Narrabundah,2017,1273,1367
+Scorpions,2017,1269,1327
+Diamond Valley United,2017,1268,1380
+Eastern United,2017,1267,1216
+Curtin University,2017,1266,1299
+Bendigo City,2017,1260,1412
+Toronto Awaba,2017,1259,1277
+Coniston,2017,1257,1257
+Balga,2017,1254,1400
+Hurstville City Minotaurs,2017,1254,1225
+Caloundra,2017,1253,1232
+Mindil Aces,2017,1250,1250
+Shamrock Rovers,2017,1240,1240
+Inter Lions,2017,1237,1387
+Playford City Patriots,2017,1237,1432
+Moreland United,2017,1237,1416
+Balgownie Rangers,2017,1234,1249
+Kelmscott Roos,2017,1231,1155
+Gatton,2017,1222,1217
+Western NSW Mariners FC,2017,1221,1217
+Buderim Wanderers,2017,1217,1309
+Murwillumbah,2017,1208,1287
+Essendon United,2017,1201,1251
+Seaford United,2017,1197,1305
+Peninsula Strikers,2017,1194,1251
+Cessnock City Hornets,2017,1185,1185
+Westvale,2017,1184,1184
+Western Condors,2017,1182,1318
+Kiama Quarriers,2017,1179,1260
+Cooma FC (Res),2017,1172,1172
+Vikings,2017,1147,1059
+Rockville Rovers,2017,1145,1005
+Magic United,2017,1144,1301
+Palm Beach Sharks,2017,1132,1093
+Nambour Yandina United,2017,1131,1048
+University of Wollongong,2017,1130,1203
+Burleigh Heads,2017,1128,1045
+Wests Illawarra,2017,1127,1171
+Moggill,2017,1120,1369
+Modbury Vista,2017,1100,1100
+Bellambi,2017,1086,1142
+Mount Barker United,2017,1085,1203
+Beerwah Glasshouse,2017,1079,788
+Gazy Auburn,2017,1066,1120
+Wagga City Wanderers,2017,1055,1128
+University Azzurri,2017,1046,1110
+University of South Australia,2017,1043,1043
+Coomera,2017,1037,1130
+Port Darwin,2017,1020,1115
+Warwick Wolves,2017,1017,1170
+St Albans,2017,1006,1182
+Stormbirds,2017,989,911
+Gympie Diggers,2017,981,1099
+Verdi,2017,961,961
+Sydney FC,2018,2520,2531
+Melbourne Victory,2018,2421,2357
+Melbourne City FC,2018,2349,2306
 Adelaide United,2018,2341,2302
-Adelaide United,2017,2302,
-Adelaide United (Y),2019,1870,1887
-Adelaide United (Y),2018,1887,1756
-Adelaide United (Y),2017,1756,
-Altona Magic,2019,1861,1845
-Altona Magic,2018,1845,1808
-Altona Magic,2017,1808,
-APIA Leichhardt Tigers,2019,2129,2153
-APIA Leichhardt Tigers,2018,2153,2121
-APIA Leichhardt Tigers,2017,2121,
-Avondale FC,2019,2124,2090
-Avondale FC,2018,2090,1913
-Avondale FC,2017,1913,
-Bentleigh Greens,2019,2157,2157
-Bentleigh Greens,2018,2157,2081
-Bentleigh Greens,2017,2081,
-Blacktown City,2019,1978,1983
-Blacktown City,2018,1983,2042
-Blacktown City,2017,2042,
-Brisbane City,2019,1857,1882
-Brisbane City,2018,1882,1829
-Brisbane City,2017,1829,
-Brisbane Roar,2019,2175,2207
-Brisbane Roar,2018,2207,2264
-Brisbane Roar,2017,2264,
-Brisbane Strikers,2019,1877,1926
-Brisbane Strikers,2018,1926,1983
-Brisbane Strikers,2017,1983,
-Broadmeadow Magic,2019,1928,1944
-Broadmeadow Magic,2018,1944,1916
-Broadmeadow Magic,2017,1916,
-Campbelltown City,2019,2067,2087
-Campbelltown City,2018,2087,1896
-Campbelltown City,2017,1896,
-Central Coast Mariners,2019,2055,2059
-Central Coast Mariners,2018,2059,2127
-Central Coast Mariners,2017,2127,
-Croydon Kings,2019,1914,1882
-Croydon Kings,2018,1882,1991
-Croydon Kings,2017,1991,
-Dandenong Thunder,2019,1874,1879
-Dandenong Thunder,2018,1879,1857
-Dandenong Thunder,2017,1857,
-Edgeworth Eagles,2019,1940,1930
-Edgeworth Eagles,2018,1930,1971
-Edgeworth Eagles,2017,1971,
-Green Gully Cavaliers,2019,1904,1874
-Green Gully Cavaliers,2018,1874,1963
-Green Gully Cavaliers,2017,1963,
-Hakoah Sydney City East,2019,1913,1920
-Hakoah Sydney City East,2018,1920,1827
-Hakoah Sydney City East,2017,1827,
-Hamilton Olympic,2019,1901,1895
-Hamilton Olympic,2018,1895,1869
-Hamilton Olympic,2017,1869,
-Heidelberg United,2019,2124,2136
-Heidelberg United,2018,2136,2132
-Heidelberg United,2017,2132,
-Hume City,2019,1916,1901
-Hume City,2018,1901,1926
-Hume City,2017,1926,
-Kingston City,2019,1908,1931
-Kingston City,2018,1931,1823
-Kingston City,2017,1823,
-Lambton Jaffas,2019,1906,1894
-Lambton Jaffas,2018,1894,1908
-Lambton Jaffas,2017,1908,
-Lions FC,2019,2069,2040
-Lions FC,2018,2040,1884
-Lions FC,2017,1884,
-Manly United,2019,1990,2007
-Manly United,2018,2007,2090
-Manly United,2017,2090,
-Marconi Stallions,2019,1897,1908
-Marconi Stallions,2018,1908,1933
-Marconi Stallions,2017,1933,
-Melbourne City FC,2019,2349,2349
-Melbourne City FC,2018,2349,2305
-Melbourne City FC,2017,2305,
-Melbourne Victory,2019,2397,2422
-Melbourne Victory,2018,2422,2356
-Melbourne Victory,2017,2356,
-MetroStars,2019,2018,2014
-MetroStars,2018,2014,2016
-MetroStars,2017,2016,
-Moreton Bay United,2019,1919,1943
-Moreton Bay United,2018,1943,1928
-Moreton Bay United,2017,1928,
-Newcastle United Jets,2019,2280,2261
-Newcastle United Jets,2018,2261,2233
-Newcastle United Jets,2017,2233,
-Oakleigh Cannons,2019,1938,1998
-Oakleigh Cannons,2018,1998,1995
-Oakleigh Cannons,2017,1995,
-Olympic FC,2019,1959,1957
-Olympic FC,2018,1957,1850
-Olympic FC,2017,1850,
-Pascoe Vale,2019,1956,1976
-Pascoe Vale,2018,1976,1945
-Pascoe Vale,2017,1945,
-Peninsula Power,2019,2025,1963
-Peninsula Power,2018,1963,1817
-Peninsula Power,2017,1817,
-Perth Glory,2019,2409,2324
-Perth Glory,2018,2324,2257
-Perth Glory,2017,2257,
-Perth SC,2019,1930,1934
-Perth SC,2018,1934,1914
-Perth SC,2017,1914,
-Port Melbourne Sharks,2019,1857,1869
-Port Melbourne Sharks,2018,1869,1795
-Port Melbourne Sharks,2017,1795,
-Rockdale City Suns,2019,2008,2001
-Rockdale City Suns,2018,2001,2010
-Rockdale City Suns,2017,2010,
-South Hobart,2019,1870,1892
-South Hobart,2018,1892,1897
-South Hobart,2017,1897,
-South Melbourne,2019,1920,1920
-South Melbourne,2018,1920,2069
-South Melbourne,2017,2069,
-Sydney FC,2019,2474,2520
-Sydney FC,2018,2520,2530
-Sydney FC,2017,2530,
-Sydney Olympic,2019,2065,2082
-Sydney Olympic,2018,2082,1949
-Sydney Olympic,2017,1949,
-Sydney United 58,2019,1998,1987
-Sydney United 58,2018,1987,1982
-Sydney United 58,2017,1982,
-Wellington Phoenix,2019,2256,2202
-Wellington Phoenix,2018,2202,2155
-Wellington Phoenix,2017,2155,
-Western Pride,2019,1837,1897
-Western Pride,2018,1897,1895
-Western Pride,2017,1895,
-Western Sydney Wanderers,2019,2233,2264
+Perth Glory,2018,2324,2258
 Western Sydney Wanderers,2018,2264,2259
-Western Sydney Wanderers,2017,2259,
-Wollongong Wolves,2019,1937,1896
+Newcastle United Jets,2018,2261,2234
+Brisbane Roar,2018,2206,2265
+Wellington Phoenix,2018,2202,2156
+Bentleigh Greens,2018,2158,2081
+APIA Leichhardt Tigers,2018,2154,2121
+Heidelberg United,2018,2136,2133
+Campbelltown City,2018,2092,1897
+Avondale FC,2018,2090,1913
+Sydney Olympic,2018,2083,1950
+Central Coast Mariners,2018,2059,2127
+Adelaide City,2018,2056,2065
+Lions FC,2018,2042,1884
+MetroStars,2018,2015,2016
+Manly United,2018,2008,2091
+Rockdale City Suns,2018,2001,2010
+Oakleigh Cannons,2018,1998,1995
+Sydney United 58,2018,1988,1983
+Blacktown City,2018,1984,2042
+Pascoe Vale,2018,1976,1946
+Adelaide Comets,2018,1964,1900
+Peninsula Power,2018,1963,1817
+Olympic FC,2018,1959,1853
+Broadmeadow Magic,2018,1950,1918
+Moreton Bay United,2018,1945,1931
+Edgeworth Eagles,2018,1935,1975
+Perth SC,2018,1934,1914
+Kingston City,2018,1931,1824
+Brisbane Strikers,2018,1928,1985
+South Melbourne,2018,1921,2070
+Hakoah Sydney City East,2018,1920,1827
+Marconi Stallions,2018,1908,1933
+Hume City,2018,1901,1926
+Hamilton Olympic,2018,1899,1871
+Western Pride,2018,1898,1897
+Lambton Jaffas,2018,1898,1910
 Wollongong Wolves,2018,1896,1951
-Wollongong Wolves,2017,1951,
+South Hobart,2018,1891,1897
+Adelaide United (Y),2018,1888,1757
+Brisbane City,2018,1884,1831
+Croydon Kings,2018,1883,1991
+Dandenong Thunder,2018,1879,1857
+Green Gully Cavaliers,2018,1874,1964
+Port Melbourne Sharks,2018,1870,1795
+Canberra Olympic,2018,1847,1913
+Altona Magic,2018,1846,1808
+Devonport City,2018,1838,1716
+Canberra FC,2018,1834,1776
+Bonnyrigg White Eagles,2018,1833,1820
+Melbourne Knights,2018,1831,1806
+Maitland,2018,1830,1794
+Bayswater City,2018,1830,1926
+Adelaide Raiders,2018,1830,1650
+West Adelaide,2018,1827,1887
+Adelaide Olympic,2018,1815,1745
+Bulleen Lions,2018,1808,1819
+Dandenong City,2018,1802,1727
+Para Hills Knights,2018,1800,1803
+Adelaide Blue Eagles,2018,1796,1854
+Northcote City,2018,1794,1794
+Floreat Athena,2018,1793,1786
+Sydney FC (Y),2018,1790,1770
+Bulli,2018,1790,1730
+Sutherland Sharks,2018,1789,1716
+Mt Druitt Town Rangers,2018,1785,1745
+Inglewood United,2018,1783,1811
+ECU Joondalup,2018,1783,1735
+Perth Glory (Y),2018,1775,1564
+Moreland City,2018,1768,1687
+Sorrento,2018,1746,1802
+Cairns FC,2018,1744,1744
+Moreland Zebras,2018,1740,1774
+West Torrens Birkalla,2018,1740,1886
+Eastern Suburbs,2018,1739,1680
+Mounties Wanderers,2018,1734,1690
+North Sunshine Eagles,2018,1733,1708
+St George FC,2018,1732,1636
+Richmond,2018,1731,1577
+Belconnen United,2018,1730,1790
+Sturt Lions,2018,1730,1734
+Cockburn City,2018,1724,1656
+South Adelaide Panthers,2018,1723,1699
+North Geelong Warriors,2018,1722,1685
+Manningham United Blues,2018,1722,1544
+Northern Tigers,2018,1714,1678
+North Shore Mariners,2018,1713,1746
+Charlestown City Blues,2018,1712,1650
+Preston Lions,2018,1711,1697
+Geelong,2018,1711,1668
+Rockingham City,2018,1702,1568
+Cumberland United,2018,1698,1750
+St Albans Saints,2018,1696,1689
+Hellenic,2018,1694,1592
+Mornington,2018,1691,1750
+Hobart Zebras,2018,1688,1688
+Lake Macquarie City,2018,1688,1672
+GHFA Spirit,2018,1688,1688
+Modbury Jets,2018,1688,1639
+White City Woodville,2018,1687,1679
+Wollongong Olympic,2018,1684,1591
+Rochedale Rovers,2018,1684,1734
+St George City,2018,1684,1551
+Cooma FC,2018,1679,1725
+Souths United,2018,1671,1543
+Stirling Lions,2018,1671,1719
+Newcastle United Jets (Y),2018,1666,1665
+Armadale,2018,1666,1590
+Western Sydney Wanderers (Y),2018,1661,1729
+Werribee City,2018,1655,1614
+Gwelup Croatia,2018,1655,1427
+SWQ Thunder,2018,1654,1569
+Rydalmere Lions,2018,1649,1717
+Brisbane Roar (Y),2018,1649,1625
+Olympia Warriors,2018,1647,1714
+Eastern Lions,2018,1647,1590
+Magpies Crusaders FC,2018,1643,1643
+Whittlesea Ranges,2018,1642,1615
+Redlands United,2018,1640,1744
+Hills United,2018,1640,1640
+Western Knights,2018,1639,1746
+Central Coast Mariners (Y),2018,1636,1650
+Goulburn Valley Suns,2018,1632,1643
+Adamstown Rosebud,2018,1630,1656
+Albany Creek,2018,1630,1653
+Noarlunga United,2018,1629,1503
+Logan Lightning,2018,1629,1564
+Sunshine Coast Wanderers,2018,1626,1626
+Valentine FC,2018,1626,1733
+Wollongong United,2018,1621,1515
+Western Strikers,2018,1620,1747
+FC Clifton Hill,2018,1619,1619
+Gold Coast United,2018,1610,1610
+Gungahlin United,2018,1607,1668
+Canterbury Bankstown,2018,1601,1601
+Sydenham Park,2018,1601,1628
+Belmont Swansea United,2018,1598,1570
+Subiaco,2018,1597,1617
+Melbourne Victory (Y),2018,1594,1555
+Forrestfield United,2018,1591,1676
+Launceston City,2018,1590,1458
+Melbourne City (Y),2018,1590,1748
+North QLD United FC,2018,1589,1589
+Tuggeranong United,2018,1585,1582
+Mitchelton,2018,1584,1646
+UWA-Nedlands FC,2018,1583,1615
+Caulfield United Cobras,2018,1580,1548
+Canberra United (Y),2018,1580,1618
+Cooks Hill United,2018,1576,1589
+Weston Workers,2018,1576,1542
+SD Raiders,2018,1574,1551
+The Cove,2018,1573,1609
+Adelaide Victory,2018,1571,1491
+Salisbury United,2018,1565,1547
+Sunshine George Cross,2018,1563,1634
+Balcatta,2018,1557,1524
+Springvale White Eagles,2018,1557,1548
+Parramatta FC,2018,1556,1564
+Grange Thistle,2018,1556,1545
+Box Hill United,2018,1556,1610
+Keilor Park,2018,1556,1533
+Ballarat City,2018,1553,1585
+Albion Park White Eagles,2018,1549,1555
+Banyule City,2018,1548,1554
+Fremantle City,2018,1548,1576
+Dianella White Eagles,2018,1545,1668
+Brunswick City,2018,1545,1573
+Hawkesbury City,2018,1544,1493
+Murray United,2018,1542,1569
+Warragul United,2018,1540,1588
+Ashfield,2018,1539,1600
+Seaford Rangers,2018,1538,1484
+Port Adelaide Pirates,2018,1536,1603
+Dunbar Rovers,2018,1536,1493
+Langwarrin,2018,1535,1654
+Altona City,2018,1533,1545
+Macarthur Rams,2018,1532,1537
+Gladesville Ryde Magic,2018,1531,1491
+Capalaba Bulldogs,2018,1529,1529
+Beaumaris,2018,1528,1527
+Sydney University,2018,1527,1516
+Casey Comets,2018,1527,1543
+South West Phoenix,2018,1527,1631
+Gold Coast Knights,2018,1518,1355
+Port Kembla,2018,1517,1630
+Yarraville Glory,2018,1515,1459
+Malvern City,2018,1513,1628
+Doveton,2018,1513,1431
+Noosa Lions,2018,1512,1393
+Woden Weston FC,2018,1510,1477
+Blacktown Spartans,2018,1509,1603
+Olympic Kingsway,2018,1505,1342
+ANU FC,2018,1504,1554
+Fulham United FC,2018,1501,1501
+Holland Park Hawks,2018,1499,1655
+Taringa Rovers,2018,1499,1533
+Bankstown City,2018,1488,1401
+Coniston,2018,1487,1257
+Wolves FC,2018,1485,1446
+Tarrawanna Blueys,2018,1484,1493
+Berwick City,2018,1480,1464
+Morley-Windmills,2018,1478,1439
+Thornton Redbacks,2018,1477,1464
+St Kilda,2018,1475,1468
+Essendon Royals,2018,1475,1475
+West Wallsend,2018,1472,1369
+Eltham Redbacks,2018,1471,1404
+Central Coast United,2018,1468,1468
+Bankstown United,2018,1467,1402
+Warilla Wanderers,2018,1464,1572
+South Cardiff,2018,1453,1487
+Hoppers Crossing,2018,1452,1461
+USQ FC,2018,1450,1330
+Mandurah City,2018,1450,1563
+Joondalup United,2018,1449,1658
+Northern Rangers,2018,1446,1453
+Adelaide Hills,2018,1444,1489
+Camden Tigers,2018,1442,1459
+Adelaide Cobras,2018,1438,1441
+Mazenod Victory,2018,1434,1434
+Whittlesea United,2018,1432,1432
+Corio,2018,1432,1405
+Broadbeach United,2018,1431,1405
+Southside Eagles,2018,1429,1437
+Westgate,2018,1428,1428
+Riverina Rhinos,2018,1428,1449
+Vipers FC,2018,1428,1314
+Ipswich Knights,2018,1424,1543
+Brimbank Stallions,2018,1423,1423
+Wallsend,2018,1422,1464
+UQ FC,2018,1417,1358
+Kahibah,2018,1416,1558
+Fernhill,2018,1415,1515
+South Springvale,2018,1414,1449
+Playford City Patriots,2018,1413,1237
+Darwin Olympic,2018,1412,1473
+White Eagles,2018,1411,1378
+Dulwich Hill,2018,1411,1510
+Wanneroo City,2018,1409,1316
+Northern Demons,2018,1408,1384
+Nepean FC,2018,1407,1403
+Morwell Pegasus,2018,1405,1485
+Kawana,2018,1402,1402
+Caboolture,2018,1402,1402
+Singleton Strikers,2018,1399,1356
+Joondalup City,2018,1398,1483
+Western Suburbs,2018,1398,1520
+Sunshine Coast Fire,2018,1398,1469
+Bayside United,2018,1396,1405
+Nunawading City,2018,1385,1380
+Fitzroy City,2018,1384,1473
+North Pine,2018,1384,1443
+Hume United,2018,1382,1386
+Kingborough Lions,2018,1378,1389
+O'Connor Knights,2018,1372,1373
+Helensburgh Thistle,2018,1371,1428
+Monaro Panthers,2018,1370,1407
+Corrimal Rangers,2018,1370,1409
+Brandon Park,2018,1370,1370
+Weston Molongo,2018,1369,1360
+Toowong,2018,1368,1368
+The Gap,2018,1367,1294
+Brisbane Knights,2018,1366,1469
+Queanbeyan City,2018,1363,1293
+Adelaide University,2018,1363,1319
+Celtic,2018,1363,1396
+Cairnlea,2018,1362,1281
+Granville Rage,2018,1360,1357
+Balga,2018,1360,1254
+Swan United,2018,1355,1314
+New Lambton,2018,1355,1412
+Willowburn,2018,1355,1326
+Centenary Stormers,2018,1354,1354
+Hurstville FC,2018,1354,1453
+Murdoch University Melville,2018,1350,1350
+Surfers Paradise,2018,1349,1344
+Thirroul,2018,1346,1374
+North Star,2018,1345,1382
+Fraser Park,2018,1344,1736
+Casuarina,2018,1340,1318
+Old Scotch,2018,1337,1400
+Bellambi,2018,1334,1086
+Gosnells City,2018,1328,1429
+South Coast United,2018,1325,1353
+Stanmore Hawks,2018,1319,1400
+Knox City,2018,1317,1317
+Caloundra,2018,1317,1253
+University of NSW,2018,1312,1295
+Annerley,2018,1306,1306
+Inter Lions,2018,1305,1237
+Cringila Lions,2018,1302,1304
+Altona East Phoenix,2018,1301,1383
+Gawler,2018,1291,1330
+Cessnock City Hornets,2018,1290,1185
+Wide Bay Buccaneers,2018,1282,1282
+Prospect United,2018,1281,1343
+Woonona,2018,1281,1288
+Doncaster Rovers,2018,1279,1290
+Burleigh Heads,2018,1276,1128
+Mooroolbark,2018,1275,1322
+Acacia Ridge,2018,1273,1283
+Oak Flats Falcons,2018,1269,1317
+Picton Rangers,2018,1268,1363
+Woombye Snakes,2018,1262,1284
+Geelong Rangers,2018,1254,1281
+Ipswich City,2018,1254,1254
+Heatherton United,2018,1252,1280
+Clarence United,2018,1248,1324
+Eastern United,2018,1247,1267
+Canning City,2018,1244,1407
+Quinns FC,2018,1236,1317
+Buderim Wanderers,2018,1233,1217
+Peninsula Strikers,2018,1229,1194
+Mount Gravatt,2018,1226,1298
+Curtin University,2018,1223,1266
+North Caulfield,2018,1221,1292
+Palmerston Rovers,2018,1221,1221
+Mill Park,2018,1218,1218
+Gatton,2018,1217,1222
+St. George Willawong,2018,1216,1216
+Frankston Pines,2018,1209,1309
+Shamrock Rovers,2018,1205,1240
+Moggill,2018,1203,1120
+Hurstville City Minotaurs,2018,1202,1254
+Western Condors,2018,1195,1182
+Mindil Aces,2018,1194,1250
+Berkeley Sports,2018,1192,1302
+Maroochydore Swans,2018,1185,1310
+Nerang,2018,1184,1184
+New Farm United,2018,1183,1183
+Virginia United,2018,1182,1182
+Balgownie Rangers,2018,1182,1234
+Canberra Olympic (Res),2018,1181,1337
+Narrabundah,2018,1177,1273
+Westvale,2018,1176,1184
+Pine Hills,2018,1173,1173
+Western NSW Mariners FC,2018,1173,1221
+Rockville Rovers,2018,1169,1145
+Southern Tablelands United,2018,1168,1168
+Brindabella Blues,2018,1166,1166
+Kiama Quarriers,2018,1165,1179
+Toronto Awaba,2018,1162,1259
+University Azzurri,2018,1160,1046
+Balmain Tigers FC,2018,1159,1302
+Western Spirit,2018,1158,1158
+Coomera,2018,1139,1037
+Murwillumbah,2018,1138,1208
+Diamond Valley United,2018,1134,1268
+Monaro Panthers (Res),2018,1128,1128
+Verdi,2018,1125,961
+Palm Beach Sharks,2018,1117,1132
+Shell Cove,2018,1116,1116
+Warwick Wolves,2018,1115,1017
+South Coast Flame,2018,1110,1110
+Kelmscott Roos,2018,1095,1231
+Unanderra Hearts,2018,1087,1087
+West Wanderers,2018,1083,1334
+Beerwah Glasshouse,2018,1082,1079
+University of Wollongong,2018,1077,1130
+Gazy Auburn,2018,1073,1066
+Nambour Yandina United,2018,1065,1131
+Oxley United,2018,1063,1063
+Stormbirds,2018,1062,989
+Tweed United,2018,1026,1026
+University of South Australia,2018,1020,1043
+Modbury Vista,2018,1013,1100
+Gympie United,2018,1009,1009
+Mudgeeraba,2018,1007,1007
+Port Darwin,2018,1004,1020
+Mount Barker United,2018,999,1085
+Coolum Dolphins,2018,996,996
+Wagga City Wanderers,2018,979,1055
+Park Ridge,2018,938,938
+Vikings,2018,932,1147
+Sydney FC,2019,2474,2520
+Perth Glory,2019,2409,2324
+Melbourne Victory,2019,2397,2421
+Melbourne City FC,2019,2349,2349
+Adelaide United,2019,2319,2341
+Newcastle United Jets,2019,2280,2261
+Wellington Phoenix,2019,2256,2202
+Western Sydney Wanderers,2019,2233,2264
+Brisbane Roar,2019,2175,2206
+Bentleigh Greens,2019,2157,2158
+APIA Leichhardt Tigers,2019,2129,2154
+Heidelberg United,2019,2124,2136
+Avondale FC,2019,2124,2090
+Lions FC,2019,2069,2042
+Campbelltown City,2019,2067,2092
+Sydney Olympic,2019,2065,2083
+Central Coast Mariners,2019,2055,2059
+Adelaide City,2019,2027,2056
+Peninsula Power,2019,2025,1963
+MetroStars,2019,2018,2015
+Rockdale City Suns,2019,2008,2001
+Sydney United 58,2019,1998,1988
+Manly United,2019,1990,2008
+Blacktown City,2019,1978,1984
+Olympic FC,2019,1959,1959
+Pascoe Vale,2019,1956,1976
+Edgeworth Eagles,2019,1940,1935
+Oakleigh Cannons,2019,1938,1998
+Wollongong Wolves,2019,1937,1896
+Adelaide Comets,2019,1931,1964
+Perth SC,2019,1930,1934
+Broadmeadow Magic,2019,1928,1950
+South Melbourne,2019,1920,1921
+Moreton Bay United,2019,1919,1945
+Hume City,2019,1916,1901
+Croydon Kings,2019,1914,1883
+Hakoah Sydney City East,2019,1913,1920
+Kingston City,2019,1908,1931
+Lambton Jaffas,2019,1906,1898
+Green Gully Cavaliers,2019,1904,1874
+Hamilton Olympic,2019,1901,1899
+Marconi Stallions,2019,1897,1908
+Melbourne Knights,2019,1888,1831
+Brisbane Strikers,2019,1877,1928
+Dandenong Thunder,2019,1874,1879
+Adelaide United (Y),2019,1870,1888
+South Hobart,2019,1870,1891
+Adelaide Olympic,2019,1866,1815
+Altona Magic,2019,1861,1846
+Port Melbourne Sharks,2019,1857,1870
+Brisbane City,2019,1857,1884
+Devonport City,2019,1851,1838
+Adelaide Raiders,2019,1847,1830
+Canberra Olympic,2019,1847,1847
+Bayswater City,2019,1845,1830
+Western Pride,2019,1837,1898
+Canberra FC,2019,1834,1834
+Maitland,2019,1830,1830
+Adelaide Blue Eagles,2019,1818,1796
+Floreat Athena,2019,1803,1793
+Para Hills Knights,2019,1803,1800
+West Adelaide,2019,1801,1827
+Sutherland Sharks,2019,1799,1789
+Bonnyrigg White Eagles,2019,1793,1833
+Bulli,2019,1790,1790
+ECU Joondalup,2019,1787,1783
+Dandenong City,2019,1785,1802
+Bulleen Lions,2019,1782,1808
+Mt Druitt Town Rangers,2019,1780,1785
+Perth Glory (Y),2019,1780,1775
+Sydney FC (Y),2019,1780,1790
+Inglewood United,2019,1767,1783
+North Geelong Warriors,2019,1760,1722
+Northcote City,2019,1756,1794
+Eastern Suburbs,2019,1740,1739
+Sturt Lions,2019,1739,1730
+Moreland Zebras,2019,1738,1740
+Sorrento,2019,1735,1746
+Cockburn City,2019,1735,1724
+North Sunshine Eagles,2019,1733,1733
+Richmond,2019,1731,1731
+North Shore Mariners,2019,1730,1713
+Belconnen United,2019,1730,1730
+St George FC,2019,1730,1732
+Werribee City,2019,1726,1655
+GHFA Spirit,2019,1725,1688
+Moreland City,2019,1725,1768
+St Albans Saints,2019,1724,1696
+Northern Tigers,2019,1721,1714
+Charlestown City Blues,2019,1712,1712
+Preston Lions,2019,1711,1711
+Mounties Wanderers,2019,1709,1734
+Modbury Jets,2019,1704,1688
+White City Woodville,2019,1703,1687
+Manningham United Blues,2019,1703,1722
+Brisbane Roar (Y),2019,1703,1649
+West Torrens Birkalla,2019,1700,1740
+Cumberland United,2019,1700,1698
+Geelong,2019,1697,1711
+Hobart Zebras,2019,1696,1688
+South Adelaide Panthers,2019,1694,1723
+Hellenic,2019,1694,1694
+Newcastle United Jets (Y),2019,1691,1666
+Eastern Lions,2019,1691,1647
+Mornington,2019,1691,1691
+Rochedale Rovers,2019,1686,1684
+Wollongong Olympic,2019,1684,1684
+Armadale,2019,1682,1666
+Lake Macquarie City,2019,1680,1688
+Central Coast Mariners (Y),2019,1679,1636
+Cooma FC,2019,1679,1679
+Gold Coast United,2019,1677,1610
+Rockingham City,2019,1675,1702
+Olympia Warriors,2019,1674,1647
+Magpies Crusaders FC,2019,1670,1643
+Rydalmere Lions,2019,1670,1649
+Hills United,2019,1660,1640
+Stirling Lions,2019,1655,1671
+Gwelup Croatia,2019,1655,1655
+St George City,2019,1654,1684
+Souths United,2019,1650,1671
+Sunshine Coast Wanderers,2019,1646,1626
+Western Sydney Wanderers (Y),2019,1645,1661
+Logan Lightning,2019,1643,1629
+Western Knights,2019,1639,1639
+Valentine FC,2019,1636,1626
+Melbourne City (Y),2019,1633,1590
+Albany Creek,2019,1622,1630
+Wollongong United,2019,1621,1621
+FC Clifton Hill,2019,1619,1619
+Western Strikers,2019,1618,1620
+Noarlunga United,2019,1618,1629
+Mitchelton,2019,1617,1584
+Goulburn Valley Suns,2019,1616,1632
+Gungahlin United,2019,1607,1607
+Belmont Swansea United,2019,1605,1598
+Adamstown Rosebud,2019,1603,1630
+Sydenham Park,2019,1601,1601
+SWQ Thunder,2019,1597,1654
+Subiaco,2019,1597,1597
+Gold Coast Knights,2019,1595,1518
+Langwarrin,2019,1593,1535
+Redlands United,2019,1593,1640
+Forrestfield United,2019,1591,1591
+Weston Workers,2019,1590,1576
+Cooks Hill United,2019,1590,1576
+Tuggeranong United,2019,1585,1585
+Melbourne Victory (Y),2019,1584,1594
+Balcatta,2019,1583,1557
+UWA-Nedlands FC,2019,1583,1583
+Box Hill United,2019,1582,1556
+Canterbury Bankstown,2019,1582,1601
+Caulfield United Cobras,2019,1580,1580
+Whittlesea Ranges,2019,1580,1642
+Launceston City,2019,1580,1590
+SD Raiders,2019,1577,1574
+Canberra United (Y),2019,1575,1580
+Parramatta FC,2019,1570,1556
+Adelaide Victory,2019,1566,1571
+Caroline Springs George Cross FC,2019,1563,1563
+Keilor Park,2019,1556,1556
+Seaford Rangers,2019,1553,1538
+Springvale White Eagles,2019,1550,1557
+Albion Park White Eagles,2019,1549,1549
+Banyule City,2019,1548,1548
+Fremantle City,2019,1548,1548
+Grange Thistle,2019,1546,1556
+Dianella White Eagles,2019,1545,1545
+Gladesville Ryde Magic,2019,1540,1531
+Port Adelaide Pirates,2019,1540,1536
+Warragul United,2019,1540,1540
+Ashfield,2019,1539,1539
+Brunswick City,2019,1538,1545
+Salisbury United,2019,1536,1565
+Altona City,2019,1533,1533
+Hawkesbury City,2019,1530,1544
+Ballarat City,2019,1529,1553
+The Cove,2019,1529,1573
+Beaumaris,2019,1528,1528
+Casey Comets,2019,1527,1527
+South West Phoenix,2019,1527,1527
+Macarthur Rams,2019,1523,1532
+Dunbar Rovers,2019,1522,1536
+Sydney University,2019,1518,1527
+Port Kembla,2019,1517,1517
+Yarraville Glory,2019,1515,1515
+Malvern City,2019,1513,1513
+Doveton,2019,1513,1513
+Noosa Lions,2019,1512,1512
+Fulham United FC,2019,1511,1501
+Woden Weston FC,2019,1510,1510
+Capalaba Bulldogs,2019,1508,1529
+Murray United,2019,1507,1542
+Blacktown Spartans,2019,1506,1509
+Olympic Kingsway,2019,1505,1505
+ANU FC,2019,1504,1504
+Bankstown City,2019,1496,1488
+Holland Park Hawks,2019,1489,1499
+Coniston,2019,1487,1487
+Tarrawanna Blueys,2019,1484,1484
+Berwick City,2019,1480,1480
+Taringa Rovers,2019,1479,1499
+Morley-Windmills,2019,1478,1478
+St Kilda,2019,1475,1475
+Essendon Royals,2019,1475,1475
+Eltham Redbacks,2019,1471,1471
+Central Coast United,2019,1468,1468
+South Cardiff,2019,1466,1453
+West Wallsend,2019,1465,1472
+Thornton Redbacks,2019,1464,1477
+Warilla Wanderers,2019,1464,1464
+Adelaide Hills,2019,1464,1444
+Wolves FC,2019,1463,1485
+Camden Tigers,2019,1462,1442
+Adelaide Cobras,2019,1456,1438
+Glenorchy Knights,2019,1454,1454
+Hoppers Crossing,2019,1452,1452
+USQ FC,2019,1450,1450
+Mandurah City,2019,1450,1450
+Joondalup United,2019,1449,1449
+Bankstown United,2019,1448,1467
+Mazenod Victory,2019,1434,1434
+Whittlesea United,2019,1432,1432
+Corio,2019,1432,1432
+Vipers FC,2019,1432,1428
+Broadbeach United,2019,1431,1431
+Playford City Patriots,2019,1431,1413
+Southside Eagles,2019,1431,1429
+Westgate,2019,1428,1428
+Riverina Rhinos,2019,1428,1428
+UQ FC,2019,1428,1417
+Ipswich Knights,2019,1427,1424
+Brimbank Stallions,2019,1423,1423
+Kahibah,2019,1416,1416
+Toowong,2019,1415,1368
+Riverside Olympic,2019,1415,1415
+Fernhill,2019,1415,1415
+South Springvale,2019,1414,1414
+Bayside United,2019,1412,1396
+Darwin Olympic,2019,1412,1412
+Caboolture,2019,1411,1402
+White Eagles,2019,1411,1411
+Wanneroo City,2019,1409,1409
+Wallsend,2019,1409,1422
+Nepean FC,2019,1407,1407
+Singleton Strikers,2019,1405,1399
+Dulwich Hill,2019,1403,1411
+Kingborough Lions,2019,1402,1378
+Kawana,2019,1402,1402
+Joondalup City,2019,1398,1398
+Western Suburbs,2019,1398,1398
+Northern Demons,2019,1388,1408
+Nunawading City,2019,1385,1385
+Sunshine Coast Fire,2019,1385,1398
+Fitzroy City,2019,1384,1384
+Hume United,2019,1382,1382
+Granville Rage,2019,1375,1360
+The Gap,2019,1373,1367
+O'Connor Knights,2019,1372,1372
+Helensburgh Thistle,2019,1371,1371
+Monaro Panthers,2019,1370,1370
+Corrimal Rangers,2019,1370,1370
+Brandon Park,2019,1370,1370
+Weston Molongo,2019,1369,1369
+North Pine,2019,1369,1384
+Queanbeyan City,2019,1363,1363
+Celtic,2019,1363,1363
+New Lambton,2019,1363,1355
+Cairnlea,2019,1362,1362
+Balga,2019,1360,1360
+Brisbane Knights,2019,1358,1366
+Swan United,2019,1355,1355
+Willowburn,2019,1355,1355
+Hurstville FC,2019,1354,1354
+North Star,2019,1353,1345
+Murdoch University Melville,2019,1350,1350
+Surfers Paradise,2019,1349,1349
+Thirroul,2019,1346,1346
+Adelaide University,2019,1344,1363
+Centenary Stormers,2019,1344,1354
+Fraser Park,2019,1344,1344
+Casuarina,2019,1340,1340
+Old Scotch,2019,1337,1337
+Bellambi,2019,1334,1334
+Gosnells City,2019,1328,1328
+Annerley,2019,1327,1306
+South Coast United,2019,1325,1325
+Gawler,2019,1322,1291
+Stanmore Hawks,2019,1318,1319
+Knox City,2019,1317,1317
+Caloundra,2019,1317,1317
+University of NSW,2019,1312,1312
+Inter Lions,2019,1305,1305
+Cringila Lions,2019,1302,1302
+Altona East Phoenix,2019,1301,1301
+Cessnock City Hornets,2019,1282,1290
+Eastern United,2019,1281,1247
+Prospect United,2019,1281,1281
+Woonona,2019,1281,1281
+Doncaster Rovers,2019,1279,1279
+Burleigh Heads,2019,1276,1276
+Mooroolbark,2019,1275,1275
+Oak Flats Falcons,2019,1269,1269
+Picton Rangers,2019,1268,1268
+Ipswich City,2019,1266,1254
+Woombye Snakes,2019,1262,1262
+Acacia Ridge,2019,1254,1273
+Geelong Rangers,2019,1254,1254
+Heatherton United,2019,1252,1252
+Canning City,2019,1244,1244
+Quinns FC,2019,1236,1236
+Buderim Wanderers,2019,1233,1233
+Clarence United,2019,1230,1248
+Peninsula Strikers,2019,1229,1229
+Curtin University,2019,1223,1223
+North Caulfield,2019,1221,1221
+Palmerston Rovers,2019,1221,1221
+Mill Park,2019,1218,1218
+Gatton,2019,1217,1217
+St. George Willawong,2019,1215,1216
+Mount Gravatt,2019,1208,1226
+Shamrock Rovers,2019,1205,1205
+Hurstville City Minotaurs,2019,1202,1202
+Western Condors,2019,1195,1195
+Mindil Aces,2019,1194,1194
+Berkeley Sports,2019,1192,1192
+Maroochydore Swans,2019,1185,1185
+Nerang,2019,1184,1184
+Balgownie Rangers,2019,1182,1182
+Virginia United,2019,1181,1182
+Western Spirit,2019,1180,1158
+New Farm United,2019,1179,1183
+Narrabundah,2019,1177,1177
+Western NSW Mariners FC,2019,1170,1173
+Rockville Rovers,2019,1169,1169
+Southern Tablelands United,2019,1168,1168
+Brindabella Blues,2019,1166,1166
+Kiama Quarriers,2019,1165,1165
+Boroondara-Carey Eagles,2019,1163,1163
+Monbulk Rangers,2019,1163,1163
+Epping City,2019,1163,1163
+Moreland United,2019,1163,1163
+Moggill,2019,1161,1203
+University Azzurri,2019,1160,1160
+Balmain Tigers FC,2019,1159,1159
+Toronto Awaba,2019,1156,1162
+Coomera,2019,1139,1139
+Murwillumbah,2019,1138,1138
+Verdi,2019,1125,1125
+Pine Hills,2019,1119,1173
+Palm Beach Sharks,2019,1117,1117
+Shell Cove,2019,1116,1116
+Warwick Wolves,2019,1115,1115
+South Coast Flame,2019,1110,1110
+Kelmscott Roos,2019,1095,1095
+Unanderra Hearts,2019,1087,1087
+West Wanderers,2019,1083,1083
+Beerwah Glasshouse,2019,1082,1082
+University of Wollongong,2019,1077,1077
+Gazy Auburn,2019,1073,1073
+Nambour Yandina United,2019,1065,1065
+Stormbirds,2019,1062,1062
+Samford Rangers,2019,1036,1036
+Tweed United,2019,1026,1026
+AC Carina,2019,1024,1024
+Modbury Vista,2019,1017,1013
+Gympie United,2019,1009,1009
+University of South Australia,2019,1007,1020
+Mudgeeraba,2019,1007,1007
+Port Darwin,2019,1004,1004
+Coolum Dolphins,2019,996,996
+Mount Barker United,2019,983,999
+Wagga City Wanderers,2019,979,979
+Vikings,2019,932,932
